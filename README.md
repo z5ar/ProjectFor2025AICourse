@@ -1,1 +1,4 @@
-# AssignmentFor2025Course
+# ProjectFor2025Course
+
+这是提交大作业小组项目的库，而非单日作业。
+目前进度：新建了文件夹。
