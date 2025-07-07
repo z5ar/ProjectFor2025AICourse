@@ -15,7 +15,10 @@
 
 ## 2. 使用技术
 
-TO-DO: 待补充
+1. 图形界面制作：`flet`
+2. 语音识别：使用`facebook/wav2vec2-large-960h-lv60-self`模型，准确度堪忧（甚至有错别字），考虑更换为`whisper`
+3. 声纹分割聚类：使用`pyannote/speaker-diarization-3.1`模型
+
 
 ## 3. AI Prompt
 
