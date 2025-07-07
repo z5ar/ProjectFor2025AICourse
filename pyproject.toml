@@ -1,0 +1,85 @@
+[project]
+name = "subtitle-generator"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Zhong Mingjie", email = "412052582@qq.com" }
+]
+dependencies = [
+  "flet==0.28.3",
+  "flet-video>=0.1.1",
+  "moviepy>=2.2.1",
+  "numpy>=2.0.2",
+  "pyannote-audio>=3.3.2",
+  "transformers>=4.53.1",
+]
+
+[tool.flet]
+# org name in reverse domain name notation, e.g. "com.mycompany".
+# Combined with project.name to build bundle ID for iOS and Android apps
+org = "com.ihavenodomains"
+
+# project display name that is used as an app title on Android and iOS home screens,
+# shown in window titles and about app dialogs on desktop.
+product = "subtitlegenerator"
+
+# company name to display in about app dialogs
+company = "Poly-steel Co., Ltd."
+
+# copyright text to display in about app dialogs
+copyright = ""
+
+[tool.flet.app]
+path = "src"
+
+[tool.uv]
+dev-dependencies = [
+    "flet[all]==0.28.3",
+]
+conflicts = [
+  [
+    { extra = "cpu" },
+    { extra = "cu128" },
+  ],
+]
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.group.dev.dependencies]
+flet = {extras = ["all"], version = "0.28.3"}
+
+[project.optional-dependencies]
+cpu = [
+  "torch>=2.7.0",
+  "torchaudio>=2.7.0",
+  "torchvision>=0.22.0",
+]
+cu128 = [
+  "torch>=2.7.0",
+  "torchaudio>=2.7.0",
+  "torchvision>=0.22.0",
+]
+
+
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cpu", extra = "cpu" },
+  { index = "pytorch-cu128", extra = "cu128" },
+]
+torchvision = [
+  { index = "pytorch-cpu", extra = "cpu" },
+  { index = "pytorch-cu128", extra = "cu128" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
