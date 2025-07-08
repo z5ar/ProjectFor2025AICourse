@@ -14,6 +14,21 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
     "python_version < '0'",
     "python_version < '0'",
@@ -23,7 +38,32 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -49,7 +89,37 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "(python_full_version < '3.10' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version < '3.10' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -71,7 +141,27 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -93,7 +183,32 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "(python_full_version >= '3.12' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -111,7 +226,27 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -129,7 +264,27 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "(python_full_version < '3.10' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version < '3.10' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -147,7 +302,27 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -165,7 +340,27 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version >= '3.12' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -183,6 +378,16 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version == '3.10.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
     "python_version < '0'",
     "python_version < '0'",
@@ -192,7 +397,47 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version < '3.10' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -238,6 +483,31 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version == '3.11.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
     "python_version < '0'",
     "python_version < '0'",
@@ -259,7 +529,57 @@ resolution-markers = [
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_full_version == '3.10.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
+    "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
     "python_version < '0'",
@@ -476,8 +796,7 @@ version = "0.4.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "torch", version = "2.7.1", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "(sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu') or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "torch", version = "2.7.1", source = { registry = "https://pypi.org/simple" }, marker = "(extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')" },
     { name = "torch", version = "2.7.1+cpu", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "(sys_platform != 'darwin' and extra == 'extra-18-subtitle-generator-cpu') or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
@@ -861,8 +1180,7 @@ resolution-markers = [
     "python_full_version == '3.10.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
 ]
 dependencies = [
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/66/54/eb9bfc647b19f2009dd5c7f5ec51c4e6ca831725f1aea7a993034f483147/contourpy-1.3.2.tar.gz", hash = "sha256:b6945942715a034c671b7fc54f9588126b0b8bf23db2696e3ca8328f3ff0ab54", size = 13466130 }
 wheels = [
@@ -1484,8 +1802,7 @@ version = "2.37.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "pillow" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/0c/47/57e897fb7094afb2d26e8b2e4af9a45c7cf1a405acdeeca001fdf2c98501/imageio-2.37.0.tar.gz", hash = "sha256:71b57b3669666272c818497aebba2b4c5f20d5b37c81720e5e1a56d59c492996", size = 389963 }
@@ -1805,6 +2122,90 @@ wheels = [
 ]
 
 [[package]]
+name = "llvmlite"
+version = "0.43.0"
+source = { registry = "https://pypi.org/simple" }
+resolution-markers = [
+    "(python_full_version < '3.10' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version < '3.10' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version < '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version < '3.10' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version < '3.10' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version < '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version < '3.10' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version < '3.10' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+]
+sdist = { url = "https://files.pythonhosted.org/packages/9f/3d/f513755f285db51ab363a53e898b85562e950f79a2e6767a364530c2f645/llvmlite-0.43.0.tar.gz", hash = "sha256:ae2b5b5c3ef67354824fb75517c8db5fbe93bc02cd9671f3c62271626bc041d5", size = 157069 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/23/ff/6ca7e98998b573b4bd6566f15c35e5c8bea829663a6df0c7aa55ab559da9/llvmlite-0.43.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:a289af9a1687c6cf463478f0fa8e8aa3b6fb813317b0d70bf1ed0759eab6f761", size = 31064408 },
+    { url = "https://files.pythonhosted.org/packages/ca/5c/a27f9257f86f0cda3f764ff21d9f4217b9f6a0d45e7a39ecfa7905f524ce/llvmlite-0.43.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:6d4fd101f571a31acb1559ae1af30f30b1dc4b3186669f92ad780e17c81e91bc", size = 28793153 },
+    { url = "https://files.pythonhosted.org/packages/7e/3c/4410f670ad0a911227ea2ecfcba9f672a77cf1924df5280c4562032ec32d/llvmlite-0.43.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:7d434ec7e2ce3cc8f452d1cd9a28591745de022f931d67be688a737320dfcead", size = 42857276 },
+    { url = "https://files.pythonhosted.org/packages/c6/21/2ffbab5714e72f2483207b4a1de79b2eecd9debbf666ff4e7067bcc5c134/llvmlite-0.43.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:6912a87782acdff6eb8bf01675ed01d60ca1f2551f8176a300a886f09e836a6a", size = 43871781 },
+    { url = "https://files.pythonhosted.org/packages/f2/26/b5478037c453554a61625ef1125f7e12bb1429ae11c6376f47beba9b0179/llvmlite-0.43.0-cp310-cp310-win_amd64.whl", hash = "sha256:14f0e4bf2fd2d9a75a3534111e8ebeb08eda2f33e9bdd6dfa13282afacdde0ed", size = 28123487 },
+    { url = "https://files.pythonhosted.org/packages/95/8c/de3276d773ab6ce3ad676df5fab5aac19696b2956319d65d7dd88fb10f19/llvmlite-0.43.0-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:3e8d0618cb9bfe40ac38a9633f2493d4d4e9fcc2f438d39a4e854f39cc0f5f98", size = 31064409 },
+    { url = "https://files.pythonhosted.org/packages/ee/e1/38deed89ced4cf378c61e232265cfe933ccde56ae83c901aa68b477d14b1/llvmlite-0.43.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:e0a9a1a39d4bf3517f2af9d23d479b4175ead205c592ceeb8b89af48a327ea57", size = 28793149 },
+    { url = "https://files.pythonhosted.org/packages/2f/b2/4429433eb2dc8379e2cb582502dca074c23837f8fd009907f78a24de4c25/llvmlite-0.43.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:c1da416ab53e4f7f3bc8d4eeba36d801cc1894b9fbfbf2022b29b6bad34a7df2", size = 42857277 },
+    { url = "https://files.pythonhosted.org/packages/6b/99/5d00a7d671b1ba1751fc9f19d3b36f3300774c6eebe2bcdb5f6191763eb4/llvmlite-0.43.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:977525a1e5f4059316b183fb4fd34fa858c9eade31f165427a3977c95e3ee749", size = 43871781 },
+    { url = "https://files.pythonhosted.org/packages/20/ab/ed5ed3688c6ba4f0b8d789da19fd8e30a9cf7fc5852effe311bc5aefe73e/llvmlite-0.43.0-cp311-cp311-win_amd64.whl", hash = "sha256:d5bd550001d26450bd90777736c69d68c487d17bf371438f975229b2b8241a91", size = 28107433 },
+    { url = "https://files.pythonhosted.org/packages/0b/67/9443509e5d2b6d8587bae3ede5598fa8bd586b1c7701696663ea8af15b5b/llvmlite-0.43.0-cp312-cp312-macosx_10_9_x86_64.whl", hash = "sha256:f99b600aa7f65235a5a05d0b9a9f31150c390f31261f2a0ba678e26823ec38f7", size = 31064409 },
+    { url = "https://files.pythonhosted.org/packages/a2/9c/24139d3712d2d352e300c39c0e00d167472c08b3bd350c3c33d72c88ff8d/llvmlite-0.43.0-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:35d80d61d0cda2d767f72de99450766250560399edc309da16937b93d3b676e7", size = 28793145 },
+    { url = "https://files.pythonhosted.org/packages/bf/f1/4c205a48488e574ee9f6505d50e84370a978c90f08dab41a42d8f2c576b6/llvmlite-0.43.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:eccce86bba940bae0d8d48ed925f21dbb813519169246e2ab292b5092aba121f", size = 42857276 },
+    { url = "https://files.pythonhosted.org/packages/00/5f/323c4d56e8401c50185fd0e875fcf06b71bf825a863699be1eb10aa2a9cb/llvmlite-0.43.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:df6509e1507ca0760787a199d19439cc887bfd82226f5af746d6977bd9f66844", size = 43871781 },
+    { url = "https://files.pythonhosted.org/packages/c6/94/dea10e263655ce78d777e78d904903faae39d1fc440762be4a9dc46bed49/llvmlite-0.43.0-cp312-cp312-win_amd64.whl", hash = "sha256:7a2872ee80dcf6b5dbdc838763d26554c2a18aa833d31a2635bff16aafefb9c9", size = 28107442 },
+    { url = "https://files.pythonhosted.org/packages/2a/73/12925b1bbb3c2beb6d96f892ef5b4d742c34f00ddb9f4a125e9e87b22f52/llvmlite-0.43.0-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:9cd2a7376f7b3367019b664c21f0c61766219faa3b03731113ead75107f3b66c", size = 31064410 },
+    { url = "https://files.pythonhosted.org/packages/cc/61/58c70aa0808a8cba825a7d98cc65bef4801b99328fba80837bfcb5fc767f/llvmlite-0.43.0-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:18e9953c748b105668487b7c81a3e97b046d8abf95c4ddc0cd3c94f4e4651ae8", size = 28793145 },
+    { url = "https://files.pythonhosted.org/packages/c8/c6/9324eb5de2ba9d99cbed853d85ba7a318652a48e077797bec27cf40f911d/llvmlite-0.43.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:74937acd22dc11b33946b67dca7680e6d103d6e90eeaaaf932603bec6fe7b03a", size = 42857276 },
+    { url = "https://files.pythonhosted.org/packages/e0/d0/889e9705107db7b1ec0767b03f15d7b95b4c4f9fdf91928ab1c7e9ffacf6/llvmlite-0.43.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:bc9efc739cc6ed760f795806f67889923f7274276f0eb45092a1473e40d9b867", size = 43871777 },
+    { url = "https://files.pythonhosted.org/packages/df/41/73cc26a2634b538cfe813f618c91e7e9960b8c163f8f0c94a2b0f008b9da/llvmlite-0.43.0-cp39-cp39-win_amd64.whl", hash = "sha256:47e147cdda9037f94b399bf03bfd8a6b6b1f2f90be94a454e3386f006455a9b4", size = 28123489 },
+]
+
+[[package]]
+name = "llvmlite"
+version = "0.44.0"
+source = { registry = "https://pypi.org/simple" }
+resolution-markers = [
+    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "(python_full_version == '3.10.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.10.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "(python_full_version == '3.10.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.10.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version >= '3.12' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.11.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version >= '3.12' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.11.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+]
+sdist = { url = "https://files.pythonhosted.org/packages/89/6a/95a3d3610d5c75293d5dbbb2a76480d5d4eeba641557b69fe90af6c5b84e/llvmlite-0.44.0.tar.gz", hash = "sha256:07667d66a5d150abed9157ab6c0b9393c9356f229784a4385c02f99e94fc94d4", size = 171880 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/41/75/d4863ddfd8ab5f6e70f4504cf8cc37f4e986ec6910f4ef8502bb7d3c1c71/llvmlite-0.44.0-cp310-cp310-macosx_10_14_x86_64.whl", hash = "sha256:9fbadbfba8422123bab5535b293da1cf72f9f478a65645ecd73e781f962ca614", size = 28132306 },
+    { url = "https://files.pythonhosted.org/packages/37/d9/6e8943e1515d2f1003e8278819ec03e4e653e2eeb71e4d00de6cfe59424e/llvmlite-0.44.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:cccf8eb28f24840f2689fb1a45f9c0f7e582dd24e088dcf96e424834af11f791", size = 26201096 },
+    { url = "https://files.pythonhosted.org/packages/aa/46/8ffbc114def88cc698906bf5acab54ca9fdf9214fe04aed0e71731fb3688/llvmlite-0.44.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:7202b678cdf904823c764ee0fe2dfe38a76981f4c1e51715b4cb5abb6cf1d9e8", size = 42361859 },
+    { url = "https://files.pythonhosted.org/packages/30/1c/9366b29ab050a726af13ebaae8d0dff00c3c58562261c79c635ad4f5eb71/llvmlite-0.44.0-cp310-cp310-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:40526fb5e313d7b96bda4cbb2c85cd5374e04d80732dd36a282d72a560bb6408", size = 41184199 },
+    { url = "https://files.pythonhosted.org/packages/69/07/35e7c594b021ecb1938540f5bce543ddd8713cff97f71d81f021221edc1b/llvmlite-0.44.0-cp310-cp310-win_amd64.whl", hash = "sha256:41e3839150db4330e1b2716c0be3b5c4672525b4c9005e17c7597f835f351ce2", size = 30332381 },
+    { url = "https://files.pythonhosted.org/packages/b5/e2/86b245397052386595ad726f9742e5223d7aea999b18c518a50e96c3aca4/llvmlite-0.44.0-cp311-cp311-macosx_10_14_x86_64.whl", hash = "sha256:eed7d5f29136bda63b6d7804c279e2b72e08c952b7c5df61f45db408e0ee52f3", size = 28132305 },
+    { url = "https://files.pythonhosted.org/packages/ff/ec/506902dc6870249fbe2466d9cf66d531265d0f3a1157213c8f986250c033/llvmlite-0.44.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:ace564d9fa44bb91eb6e6d8e7754977783c68e90a471ea7ce913bff30bd62427", size = 26201090 },
+    { url = "https://files.pythonhosted.org/packages/99/fe/d030f1849ebb1f394bb3f7adad5e729b634fb100515594aca25c354ffc62/llvmlite-0.44.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:c5d22c3bfc842668168a786af4205ec8e3ad29fb1bc03fd11fd48460d0df64c1", size = 42361858 },
+    { url = "https://files.pythonhosted.org/packages/d7/7a/ce6174664b9077fc673d172e4c888cb0b128e707e306bc33fff8c2035f0d/llvmlite-0.44.0-cp311-cp311-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:f01a394e9c9b7b1d4e63c327b096d10f6f0ed149ef53d38a09b3749dcf8c9610", size = 41184200 },
+    { url = "https://files.pythonhosted.org/packages/5f/c6/258801143975a6d09a373f2641237992496e15567b907a4d401839d671b8/llvmlite-0.44.0-cp311-cp311-win_amd64.whl", hash = "sha256:d8489634d43c20cd0ad71330dde1d5bc7b9966937a263ff1ec1cebb90dc50955", size = 30331193 },
+    { url = "https://files.pythonhosted.org/packages/15/86/e3c3195b92e6e492458f16d233e58a1a812aa2bfbef9bdd0fbafcec85c60/llvmlite-0.44.0-cp312-cp312-macosx_10_14_x86_64.whl", hash = "sha256:1d671a56acf725bf1b531d5ef76b86660a5ab8ef19bb6a46064a705c6ca80aad", size = 28132297 },
+    { url = "https://files.pythonhosted.org/packages/d6/53/373b6b8be67b9221d12b24125fd0ec56b1078b660eeae266ec388a6ac9a0/llvmlite-0.44.0-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:5f79a728e0435493611c9f405168682bb75ffd1fbe6fc360733b850c80a026db", size = 26201105 },
+    { url = "https://files.pythonhosted.org/packages/cb/da/8341fd3056419441286c8e26bf436923021005ece0bff5f41906476ae514/llvmlite-0.44.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:c0143a5ef336da14deaa8ec26c5449ad5b6a2b564df82fcef4be040b9cacfea9", size = 42361901 },
+    { url = "https://files.pythonhosted.org/packages/53/ad/d79349dc07b8a395a99153d7ce8b01d6fcdc9f8231355a5df55ded649b61/llvmlite-0.44.0-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:d752f89e31b66db6f8da06df8b39f9b91e78c5feea1bf9e8c1fba1d1c24c065d", size = 41184247 },
+    { url = "https://files.pythonhosted.org/packages/e2/3b/a9a17366af80127bd09decbe2a54d8974b6d8b274b39bf47fbaedeec6307/llvmlite-0.44.0-cp312-cp312-win_amd64.whl", hash = "sha256:eae7e2d4ca8f88f89d315b48c6b741dcb925d6a1042da694aa16ab3dd4cbd3a1", size = 30332380 },
+    { url = "https://files.pythonhosted.org/packages/89/24/4c0ca705a717514c2092b18476e7a12c74d34d875e05e4d742618ebbf449/llvmlite-0.44.0-cp313-cp313-macosx_10_14_x86_64.whl", hash = "sha256:319bddd44e5f71ae2689859b7203080716448a3cd1128fb144fe5c055219d516", size = 28132306 },
+    { url = "https://files.pythonhosted.org/packages/01/cf/1dd5a60ba6aee7122ab9243fd614abcf22f36b0437cbbe1ccf1e3391461c/llvmlite-0.44.0-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:9c58867118bad04a0bb22a2e0068c693719658105e40009ffe95c7000fcde88e", size = 26201090 },
+    { url = "https://files.pythonhosted.org/packages/d2/1b/656f5a357de7135a3777bd735cc7c9b8f23b4d37465505bd0eaf4be9befe/llvmlite-0.44.0-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:46224058b13c96af1365290bdfebe9a6264ae62fb79b2b55693deed11657a8bf", size = 42361904 },
+    { url = "https://files.pythonhosted.org/packages/d8/e1/12c5f20cb9168fb3464a34310411d5ad86e4163c8ff2d14a2b57e5cc6bac/llvmlite-0.44.0-cp313-cp313-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:aa0097052c32bf721a4efc03bd109d335dfa57d9bffb3d4c24cc680711b8b4fc", size = 41184245 },
+    { url = "https://files.pythonhosted.org/packages/d0/81/e66fc86539293282fd9cb7c9417438e897f369e79ffb62e1ae5e5154d4dd/llvmlite-0.44.0-cp313-cp313-win_amd64.whl", hash = "sha256:2fb7c4f2fb86cbae6dca3db9ab203eeea0e22d73b99bc2341cdf9de93612e930", size = 30331193 },
+]
+
+[[package]]
 name = "mako"
 version = "1.3.10"
 source = { registry = "https://pypi.org/simple" }
@@ -1993,8 +2394,7 @@ dependencies = [
     { name = "cycler", marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "fonttools", marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "kiwisolver", version = "1.4.8", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "packaging", marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "pillow", marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "pyparsing", marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
@@ -2047,6 +2447,15 @@ wheels = [
 ]
 
 [[package]]
+name = "more-itertools"
+version = "10.7.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/ce/a0/834b0cebabbfc7e311f30b46c8188790a37f89fc8d756660346fe5abfd09/more_itertools-10.7.0.tar.gz", hash = "sha256:9fddd5403be01a94b204faadcff459ec3568cf110265d3c54323e1e866ad29d3", size = 127671 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2b/9f/7ba6f94fc1e9ac3d2b853fdff3035fb2fa5afbed898c4a72b8a020610594/more_itertools-10.7.0-py3-none-any.whl", hash = "sha256:d43980384673cb07d2f7d2d918c616b30c659c089ee23953f601d6609c67510e", size = 65278 },
+]
+
+[[package]]
 name = "moviepy"
 version = "2.2.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2055,8 +2464,7 @@ dependencies = [
     { name = "imageio" },
     { name = "imageio-ffmpeg" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "pillow" },
     { name = "proglog" },
     { name = "python-dotenv" },
@@ -2253,6 +2661,98 @@ wheels = [
 ]
 
 [[package]]
+name = "numba"
+version = "0.60.0"
+source = { registry = "https://pypi.org/simple" }
+resolution-markers = [
+    "(python_full_version < '3.10' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version < '3.10' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version < '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version < '3.10' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version < '3.10' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version < '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version < '3.10' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version < '3.10' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+]
+dependencies = [
+    { name = "llvmlite", version = "0.43.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/3c/93/2849300a9184775ba274aba6f82f303343669b0592b7bb0849ea713dabb0/numba-0.60.0.tar.gz", hash = "sha256:5df6158e5584eece5fc83294b949fd30b9f1125df7708862205217e068aabf16", size = 2702171 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/f7/cf/baa13a7e3556d73d9e38021e6d6aa4aeb30d8b94545aa8b70d0f24a1ccc4/numba-0.60.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:5d761de835cd38fb400d2c26bb103a2726f548dc30368853121d66201672e651", size = 2647627 },
+    { url = "https://files.pythonhosted.org/packages/ac/ba/4b57fa498564457c3cc9fc9e570a6b08e6086c74220f24baaf04e54b995f/numba-0.60.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:159e618ef213fba758837f9837fb402bbe65326e60ba0633dbe6c7f274d42c1b", size = 2650322 },
+    { url = "https://files.pythonhosted.org/packages/28/98/7ea97ee75870a54f938a8c70f7e0be4495ba5349c5f9db09d467c4a5d5b7/numba-0.60.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.whl", hash = "sha256:1527dc578b95c7c4ff248792ec33d097ba6bef9eda466c948b68dfc995c25781", size = 3407390 },
+    { url = "https://files.pythonhosted.org/packages/79/58/cb4ac5b8f7ec64200460aef1fed88258fb872ceef504ab1f989d2ff0f684/numba-0.60.0-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:fe0b28abb8d70f8160798f4de9d486143200f34458d34c4a214114e445d7124e", size = 3699694 },
+    { url = "https://files.pythonhosted.org/packages/1c/b0/c61a93ca947d12233ff45de506ddbf52af3f752066a0b8be4d27426e16da/numba-0.60.0-cp310-cp310-win_amd64.whl", hash = "sha256:19407ced081d7e2e4b8d8c36aa57b7452e0283871c296e12d798852bc7d7f198", size = 2687030 },
+    { url = "https://files.pythonhosted.org/packages/98/ad/df18d492a8f00d29a30db307904b9b296e37507034eedb523876f3a2e13e/numba-0.60.0-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:a17b70fc9e380ee29c42717e8cc0bfaa5556c416d94f9aa96ba13acb41bdece8", size = 2647254 },
+    { url = "https://files.pythonhosted.org/packages/9a/51/a4dc2c01ce7a850b8e56ff6d5381d047a5daea83d12bad08aa071d34b2ee/numba-0.60.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:3fb02b344a2a80efa6f677aa5c40cd5dd452e1b35f8d1c2af0dfd9ada9978e4b", size = 2649970 },
+    { url = "https://files.pythonhosted.org/packages/f9/4c/8889ac94c0b33dca80bed11564b8c6d9ea14d7f094e674c58e5c5b05859b/numba-0.60.0-cp311-cp311-manylinux2014_aarch64.manylinux_2_17_aarch64.whl", hash = "sha256:5f4fde652ea604ea3c86508a3fb31556a6157b2c76c8b51b1d45eb40c8598703", size = 3412492 },
+    { url = "https://files.pythonhosted.org/packages/57/03/2b4245b05b71c0cee667e6a0b51606dfa7f4157c9093d71c6b208385a611/numba-0.60.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:4142d7ac0210cc86432b818338a2bc368dc773a2f5cf1e32ff7c5b378bd63ee8", size = 3705018 },
+    { url = "https://files.pythonhosted.org/packages/79/89/2d924ca60dbf949f18a6fec223a2445f5f428d9a5f97a6b29c2122319015/numba-0.60.0-cp311-cp311-win_amd64.whl", hash = "sha256:cac02c041e9b5bc8cf8f2034ff6f0dbafccd1ae9590dc146b3a02a45e53af4e2", size = 2686920 },
+    { url = "https://files.pythonhosted.org/packages/eb/5c/b5ec752c475e78a6c3676b67c514220dbde2725896bbb0b6ec6ea54b2738/numba-0.60.0-cp312-cp312-macosx_10_9_x86_64.whl", hash = "sha256:d7da4098db31182fc5ffe4bc42c6f24cd7d1cb8a14b59fd755bfee32e34b8404", size = 2647866 },
+    { url = "https://files.pythonhosted.org/packages/65/42/39559664b2e7c15689a638c2a38b3b74c6e69a04e2b3019b9f7742479188/numba-0.60.0-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:38d6ea4c1f56417076ecf8fc327c831ae793282e0ff51080c5094cb726507b1c", size = 2650208 },
+    { url = "https://files.pythonhosted.org/packages/67/88/c4459ccc05674ef02119abf2888ccd3e2fed12a323f52255f4982fc95876/numba-0.60.0-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl", hash = "sha256:62908d29fb6a3229c242e981ca27e32a6e606cc253fc9e8faeb0e48760de241e", size = 3466946 },
+    { url = "https://files.pythonhosted.org/packages/8b/41/ac11cf33524def12aa5bd698226ae196a1185831c05ed29dc0c56eaa308b/numba-0.60.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:0ebaa91538e996f708f1ab30ef4d3ddc344b64b5227b67a57aa74f401bb68b9d", size = 3761463 },
+    { url = "https://files.pythonhosted.org/packages/ca/bd/0fe29fcd1b6a8de479a4ed25c6e56470e467e3611c079d55869ceef2b6d1/numba-0.60.0-cp312-cp312-win_amd64.whl", hash = "sha256:f75262e8fe7fa96db1dca93d53a194a38c46da28b112b8a4aca168f0df860347", size = 2707588 },
+    { url = "https://files.pythonhosted.org/packages/68/1a/87c53f836cdf557083248c3f47212271f220280ff766538795e77c8c6bbf/numba-0.60.0-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:01ef4cd7d83abe087d644eaa3d95831b777aa21d441a23703d649e06b8e06b74", size = 2647186 },
+    { url = "https://files.pythonhosted.org/packages/28/14/a5baa1f2edea7b49afa4dc1bb1b126645198cf1075186853b5b497be826e/numba-0.60.0-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:819a3dfd4630d95fd574036f99e47212a1af41cbcb019bf8afac63ff56834449", size = 2650038 },
+    { url = "https://files.pythonhosted.org/packages/3b/bd/f1985719ff34e37e07bb18f9d3acd17e5a21da255f550c8eae031e2ddf5f/numba-0.60.0-cp39-cp39-manylinux2014_aarch64.manylinux_2_17_aarch64.whl", hash = "sha256:0b983bd6ad82fe868493012487f34eae8bf7dd94654951404114f23c3466d34b", size = 3403010 },
+    { url = "https://files.pythonhosted.org/packages/54/9b/cd73d3f6617ddc8398a63ef97d8dc9139a9879b9ca8a7ca4b8789056ea46/numba-0.60.0-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:c151748cd269ddeab66334bd754817ffc0cabd9433acb0f551697e5151917d25", size = 3695086 },
+    { url = "https://files.pythonhosted.org/packages/01/01/8b7b670c77c5ea0e47e283d82332969bf672ab6410d0b2610cac5b7a3ded/numba-0.60.0-cp39-cp39-win_amd64.whl", hash = "sha256:3031547a015710140e8c87226b4cfe927cac199835e5bf7d4fe5cb64e814e3ab", size = 2686978 },
+]
+
+[[package]]
+name = "numba"
+version = "0.61.2"
+source = { registry = "https://pypi.org/simple" }
+resolution-markers = [
+    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "(python_full_version == '3.10.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.10.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "(python_full_version == '3.10.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.10.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version >= '3.12' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.11.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version >= '3.12' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.11.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.10.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+]
+dependencies = [
+    { name = "llvmlite", version = "0.44.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/1c/a0/e21f57604304aa03ebb8e098429222722ad99176a4f979d34af1d1ee80da/numba-0.61.2.tar.gz", hash = "sha256:8750ee147940a6637b80ecf7f95062185ad8726c8c28a2295b8ec1160a196f7d", size = 2820615 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/eb/ca/f470be59552ccbf9531d2d383b67ae0b9b524d435fb4a0d229fef135116e/numba-0.61.2-cp310-cp310-macosx_10_14_x86_64.whl", hash = "sha256:cf9f9fc00d6eca0c23fc840817ce9f439b9f03c8f03d6246c0e7f0cb15b7162a", size = 2775663 },
+    { url = "https://files.pythonhosted.org/packages/f5/13/3bdf52609c80d460a3b4acfb9fdb3817e392875c0d6270cf3fd9546f138b/numba-0.61.2-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:ea0247617edcb5dd61f6106a56255baab031acc4257bddaeddb3a1003b4ca3fd", size = 2778344 },
+    { url = "https://files.pythonhosted.org/packages/e2/7d/bfb2805bcfbd479f04f835241ecf28519f6e3609912e3a985aed45e21370/numba-0.61.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:ae8c7a522c26215d5f62ebec436e3d341f7f590079245a2f1008dfd498cc1642", size = 3824054 },
+    { url = "https://files.pythonhosted.org/packages/e3/27/797b2004745c92955470c73c82f0e300cf033c791f45bdecb4b33b12bdea/numba-0.61.2-cp310-cp310-manylinux_2_28_aarch64.whl", hash = "sha256:bd1e74609855aa43661edffca37346e4e8462f6903889917e9f41db40907daa2", size = 3518531 },
+    { url = "https://files.pythonhosted.org/packages/b1/c6/c2fb11e50482cb310afae87a997707f6c7d8a48967b9696271347441f650/numba-0.61.2-cp310-cp310-win_amd64.whl", hash = "sha256:ae45830b129c6137294093b269ef0a22998ccc27bf7cf096ab8dcf7bca8946f9", size = 2831612 },
+    { url = "https://files.pythonhosted.org/packages/3f/97/c99d1056aed767503c228f7099dc11c402906b42a4757fec2819329abb98/numba-0.61.2-cp311-cp311-macosx_10_14_x86_64.whl", hash = "sha256:efd3db391df53aaa5cfbee189b6c910a5b471488749fd6606c3f33fc984c2ae2", size = 2775825 },
+    { url = "https://files.pythonhosted.org/packages/95/9e/63c549f37136e892f006260c3e2613d09d5120672378191f2dc387ba65a2/numba-0.61.2-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:49c980e4171948ffebf6b9a2520ea81feed113c1f4890747ba7f59e74be84b1b", size = 2778695 },
+    { url = "https://files.pythonhosted.org/packages/97/c8/8740616c8436c86c1b9a62e72cb891177d2c34c2d24ddcde4c390371bf4c/numba-0.61.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:3945615cd73c2c7eba2a85ccc9c1730c21cd3958bfcf5a44302abae0fb07bb60", size = 3829227 },
+    { url = "https://files.pythonhosted.org/packages/fc/06/66e99ae06507c31d15ff3ecd1f108f2f59e18b6e08662cd5f8a5853fbd18/numba-0.61.2-cp311-cp311-manylinux_2_28_aarch64.whl", hash = "sha256:bbfdf4eca202cebade0b7d43896978e146f39398909a42941c9303f82f403a18", size = 3523422 },
+    { url = "https://files.pythonhosted.org/packages/0f/a4/2b309a6a9f6d4d8cfba583401c7c2f9ff887adb5d54d8e2e130274c0973f/numba-0.61.2-cp311-cp311-win_amd64.whl", hash = "sha256:76bcec9f46259cedf888041b9886e257ae101c6268261b19fda8cfbc52bec9d1", size = 2831505 },
+    { url = "https://files.pythonhosted.org/packages/b4/a0/c6b7b9c615cfa3b98c4c63f4316e3f6b3bbe2387740277006551784218cd/numba-0.61.2-cp312-cp312-macosx_10_14_x86_64.whl", hash = "sha256:34fba9406078bac7ab052efbf0d13939426c753ad72946baaa5bf9ae0ebb8dd2", size = 2776626 },
+    { url = "https://files.pythonhosted.org/packages/92/4a/fe4e3c2ecad72d88f5f8cd04e7f7cff49e718398a2fac02d2947480a00ca/numba-0.61.2-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:4ddce10009bc097b080fc96876d14c051cc0c7679e99de3e0af59014dab7dfe8", size = 2779287 },
+    { url = "https://files.pythonhosted.org/packages/9a/2d/e518df036feab381c23a624dac47f8445ac55686ec7f11083655eb707da3/numba-0.61.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:5b1bb509d01f23d70325d3a5a0e237cbc9544dd50e50588bc581ba860c213546", size = 3885928 },
+    { url = "https://files.pythonhosted.org/packages/10/0f/23cced68ead67b75d77cfcca3df4991d1855c897ee0ff3fe25a56ed82108/numba-0.61.2-cp312-cp312-manylinux_2_28_aarch64.whl", hash = "sha256:48a53a3de8f8793526cbe330f2a39fe9a6638efcbf11bd63f3d2f9757ae345cd", size = 3577115 },
+    { url = "https://files.pythonhosted.org/packages/68/1d/ddb3e704c5a8fb90142bf9dc195c27db02a08a99f037395503bfbc1d14b3/numba-0.61.2-cp312-cp312-win_amd64.whl", hash = "sha256:97cf4f12c728cf77c9c1d7c23707e4d8fb4632b46275f8f3397de33e5877af18", size = 2831929 },
+    { url = "https://files.pythonhosted.org/packages/0b/f3/0fe4c1b1f2569e8a18ad90c159298d862f96c3964392a20d74fc628aee44/numba-0.61.2-cp313-cp313-macosx_10_14_x86_64.whl", hash = "sha256:3a10a8fc9afac40b1eac55717cece1b8b1ac0b946f5065c89e00bde646b5b154", size = 2771785 },
+    { url = "https://files.pythonhosted.org/packages/e9/71/91b277d712e46bd5059f8a5866862ed1116091a7cb03bd2704ba8ebe015f/numba-0.61.2-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:7d3bcada3c9afba3bed413fba45845f2fb9cd0d2b27dd58a1be90257e293d140", size = 2773289 },
+    { url = "https://files.pythonhosted.org/packages/0d/e0/5ea04e7ad2c39288c0f0f9e8d47638ad70f28e275d092733b5817cf243c9/numba-0.61.2-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:bdbca73ad81fa196bd53dc12e3aaf1564ae036e0c125f237c7644fe64a4928ab", size = 3893918 },
+    { url = "https://files.pythonhosted.org/packages/17/58/064f4dcb7d7e9412f16ecf80ed753f92297e39f399c905389688cf950b81/numba-0.61.2-cp313-cp313-manylinux_2_28_aarch64.whl", hash = "sha256:5f154aaea625fb32cfbe3b80c5456d514d416fcdf79733dd69c0df3a11348e9e", size = 3584056 },
+    { url = "https://files.pythonhosted.org/packages/af/a4/6d3a0f2d3989e62a18749e1e9913d5fa4910bbb3e3311a035baea6caf26d/numba-0.61.2-cp313-cp313-win_amd64.whl", hash = "sha256:59321215e2e0ac5fa928a8020ab00b8e57cda8a97384963ac0dfa4d4e6aa54e7", size = 2831846 },
+]
+
+[[package]]
 name = "numpy"
 version = "2.0.2"
 source = { registry = "https://pypi.org/simple" }
@@ -2317,11 +2817,23 @@ name = "numpy"
 version = "2.2.6"
 source = { registry = "https://pypi.org/simple" }
 resolution-markers = [
+    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
     "(python_full_version == '3.10.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.10.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
+    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
     "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
     "(python_full_version == '3.10.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.10.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
+    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
     "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version >= '3.12' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.11.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
     "python_full_version == '3.10.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version >= '3.12' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
+    "python_full_version == '3.11.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
     "python_full_version == '3.10.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/76/21/7d2a95e4bba9dc13d043ee156a356c0a8f0c6309dff6b21b4d71a073b8a8/numpy-2.2.6.tar.gz", hash = "sha256:e29554e2bef54a90aa5cc07da6ce955accb83f21ab5de01a62c8478897b264fd", size = 20276440 }
@@ -2380,78 +2892,6 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/17/f4/09b2fa1b58f0fb4f7c7963a1649c64c4d315752240377ed74d9cd878f7b5/numpy-2.2.6-pp310-pypy310_pp73-macosx_14_0_x86_64.whl", hash = "sha256:7befc596a7dc9da8a337f79802ee8adb30a552a94f792b9c9d18c840055907db", size = 6786754 },
     { url = "https://files.pythonhosted.org/packages/af/30/feba75f143bdc868a1cc3f44ccfa6c4b9ec522b36458e738cd00f67b573f/numpy-2.2.6-pp310-pypy310_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ce47521a4754c8f4593837384bd3424880629f718d87c5d44f8ed763edd63543", size = 16643476 },
     { url = "https://files.pythonhosted.org/packages/37/48/ac2a9584402fb6c0cd5b5d1a91dcf176b15760130dd386bbafdbfe3640bf/numpy-2.2.6-pp310-pypy310_pp73-win_amd64.whl", hash = "sha256:d042d24c90c41b54fd506da306759e06e568864df8ec17ccc17e9e884634fd00", size = 12812666 },
-]
-
-[[package]]
-name = "numpy"
-version = "2.3.1"
-source = { registry = "https://pypi.org/simple" }
-resolution-markers = [
-    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
-    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
-    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')",
-    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra != 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128'",
-    "(python_full_version >= '3.12' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version >= '3.12' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
-    "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
-    "(python_full_version == '3.11.*' and platform_machine != 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128') or (python_full_version == '3.11.*' and sys_platform != 'darwin' and sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')",
-    "python_full_version == '3.11.*' and platform_machine == 'aarch64' and sys_platform == 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
-    "python_full_version >= '3.12' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
-    "python_full_version == '3.11.*' and sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
-    "python_full_version >= '3.12' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
-    "python_full_version == '3.11.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
-]
-sdist = { url = "https://files.pythonhosted.org/packages/2e/19/d7c972dfe90a353dbd3efbbe1d14a5951de80c99c9dc1b93cd998d51dc0f/numpy-2.3.1.tar.gz", hash = "sha256:1ec9ae20a4226da374362cca3c62cd753faf2f951440b0e3b98e93c235441d2b", size = 20390372 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/b0/c7/87c64d7ab426156530676000c94784ef55676df2f13b2796f97722464124/numpy-2.3.1-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:6ea9e48336a402551f52cd8f593343699003d2353daa4b72ce8d34f66b722070", size = 21199346 },
-    { url = "https://files.pythonhosted.org/packages/58/0e/0966c2f44beeac12af8d836e5b5f826a407cf34c45cb73ddcdfce9f5960b/numpy-2.3.1-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:5ccb7336eaf0e77c1635b232c141846493a588ec9ea777a7c24d7166bb8533ae", size = 14361143 },
-    { url = "https://files.pythonhosted.org/packages/7d/31/6e35a247acb1bfc19226791dfc7d4c30002cd4e620e11e58b0ddf836fe52/numpy-2.3.1-cp311-cp311-macosx_14_0_arm64.whl", hash = "sha256:0bb3a4a61e1d327e035275d2a993c96fa786e4913aa089843e6a2d9dd205c66a", size = 5378989 },
-    { url = "https://files.pythonhosted.org/packages/b0/25/93b621219bb6f5a2d4e713a824522c69ab1f06a57cd571cda70e2e31af44/numpy-2.3.1-cp311-cp311-macosx_14_0_x86_64.whl", hash = "sha256:e344eb79dab01f1e838ebb67aab09965fb271d6da6b00adda26328ac27d4a66e", size = 6912890 },
-    { url = "https://files.pythonhosted.org/packages/ef/60/6b06ed98d11fb32e27fb59468b42383f3877146d3ee639f733776b6ac596/numpy-2.3.1-cp311-cp311-manylinux_2_28_aarch64.whl", hash = "sha256:467db865b392168ceb1ef1ffa6f5a86e62468c43e0cfb4ab6da667ede10e58db", size = 14569032 },
-    { url = "https://files.pythonhosted.org/packages/75/c9/9bec03675192077467a9c7c2bdd1f2e922bd01d3a69b15c3a0fdcd8548f6/numpy-2.3.1-cp311-cp311-manylinux_2_28_x86_64.whl", hash = "sha256:afed2ce4a84f6b0fc6c1ce734ff368cbf5a5e24e8954a338f3bdffa0718adffb", size = 16930354 },
-    { url = "https://files.pythonhosted.org/packages/6a/e2/5756a00cabcf50a3f527a0c968b2b4881c62b1379223931853114fa04cda/numpy-2.3.1-cp311-cp311-musllinux_1_2_aarch64.whl", hash = "sha256:0025048b3c1557a20bc80d06fdeb8cc7fc193721484cca82b2cfa072fec71a93", size = 15879605 },
-    { url = "https://files.pythonhosted.org/packages/ff/86/a471f65f0a86f1ca62dcc90b9fa46174dd48f50214e5446bc16a775646c5/numpy-2.3.1-cp311-cp311-musllinux_1_2_x86_64.whl", hash = "sha256:a5ee121b60aa509679b682819c602579e1df14a5b07fe95671c8849aad8f2115", size = 18666994 },
-    { url = "https://files.pythonhosted.org/packages/43/a6/482a53e469b32be6500aaf61cfafd1de7a0b0d484babf679209c3298852e/numpy-2.3.1-cp311-cp311-win32.whl", hash = "sha256:a8b740f5579ae4585831b3cf0e3b0425c667274f82a484866d2adf9570539369", size = 6603672 },
-    { url = "https://files.pythonhosted.org/packages/6b/fb/bb613f4122c310a13ec67585c70e14b03bfc7ebabd24f4d5138b97371d7c/numpy-2.3.1-cp311-cp311-win_amd64.whl", hash = "sha256:d4580adadc53311b163444f877e0789f1c8861e2698f6b2a4ca852fda154f3ff", size = 13024015 },
-    { url = "https://files.pythonhosted.org/packages/51/58/2d842825af9a0c041aca246dc92eb725e1bc5e1c9ac89712625db0c4e11c/numpy-2.3.1-cp311-cp311-win_arm64.whl", hash = "sha256:ec0bdafa906f95adc9a0c6f26a4871fa753f25caaa0e032578a30457bff0af6a", size = 10456989 },
-    { url = "https://files.pythonhosted.org/packages/c6/56/71ad5022e2f63cfe0ca93559403d0edef14aea70a841d640bd13cdba578e/numpy-2.3.1-cp312-cp312-macosx_10_13_x86_64.whl", hash = "sha256:2959d8f268f3d8ee402b04a9ec4bb7604555aeacf78b360dc4ec27f1d508177d", size = 20896664 },
-    { url = "https://files.pythonhosted.org/packages/25/65/2db52ba049813670f7f987cc5db6dac9be7cd95e923cc6832b3d32d87cef/numpy-2.3.1-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:762e0c0c6b56bdedfef9a8e1d4538556438288c4276901ea008ae44091954e29", size = 14131078 },
-    { url = "https://files.pythonhosted.org/packages/57/dd/28fa3c17b0e751047ac928c1e1b6990238faad76e9b147e585b573d9d1bd/numpy-2.3.1-cp312-cp312-macosx_14_0_arm64.whl", hash = "sha256:867ef172a0976aaa1f1d1b63cf2090de8b636a7674607d514505fb7276ab08fc", size = 5112554 },
-    { url = "https://files.pythonhosted.org/packages/c9/fc/84ea0cba8e760c4644b708b6819d91784c290288c27aca916115e3311d17/numpy-2.3.1-cp312-cp312-macosx_14_0_x86_64.whl", hash = "sha256:4e602e1b8682c2b833af89ba641ad4176053aaa50f5cacda1a27004352dde943", size = 6646560 },
-    { url = "https://files.pythonhosted.org/packages/61/b2/512b0c2ddec985ad1e496b0bd853eeb572315c0f07cd6997473ced8f15e2/numpy-2.3.1-cp312-cp312-manylinux_2_28_aarch64.whl", hash = "sha256:8e333040d069eba1652fb08962ec5b76af7f2c7bce1df7e1418c8055cf776f25", size = 14260638 },
-    { url = "https://files.pythonhosted.org/packages/6e/45/c51cb248e679a6c6ab14b7a8e3ead3f4a3fe7425fc7a6f98b3f147bec532/numpy-2.3.1-cp312-cp312-manylinux_2_28_x86_64.whl", hash = "sha256:e7cbf5a5eafd8d230a3ce356d892512185230e4781a361229bd902ff403bc660", size = 16632729 },
-    { url = "https://files.pythonhosted.org/packages/e4/ff/feb4be2e5c09a3da161b412019caf47183099cbea1132fd98061808c2df2/numpy-2.3.1-cp312-cp312-musllinux_1_2_aarch64.whl", hash = "sha256:5f1b8f26d1086835f442286c1d9b64bb3974b0b1e41bb105358fd07d20872952", size = 15565330 },
-    { url = "https://files.pythonhosted.org/packages/bc/6d/ceafe87587101e9ab0d370e4f6e5f3f3a85b9a697f2318738e5e7e176ce3/numpy-2.3.1-cp312-cp312-musllinux_1_2_x86_64.whl", hash = "sha256:ee8340cb48c9b7a5899d1149eece41ca535513a9698098edbade2a8e7a84da77", size = 18361734 },
-    { url = "https://files.pythonhosted.org/packages/2b/19/0fb49a3ea088be691f040c9bf1817e4669a339d6e98579f91859b902c636/numpy-2.3.1-cp312-cp312-win32.whl", hash = "sha256:e772dda20a6002ef7061713dc1e2585bc1b534e7909b2030b5a46dae8ff077ab", size = 6320411 },
-    { url = "https://files.pythonhosted.org/packages/b1/3e/e28f4c1dd9e042eb57a3eb652f200225e311b608632bc727ae378623d4f8/numpy-2.3.1-cp312-cp312-win_amd64.whl", hash = "sha256:cfecc7822543abdea6de08758091da655ea2210b8ffa1faf116b940693d3df76", size = 12734973 },
-    { url = "https://files.pythonhosted.org/packages/04/a8/8a5e9079dc722acf53522b8f8842e79541ea81835e9b5483388701421073/numpy-2.3.1-cp312-cp312-win_arm64.whl", hash = "sha256:7be91b2239af2658653c5bb6f1b8bccafaf08226a258caf78ce44710a0160d30", size = 10191491 },
-    { url = "https://files.pythonhosted.org/packages/d4/bd/35ad97006d8abff8631293f8ea6adf07b0108ce6fec68da3c3fcca1197f2/numpy-2.3.1-cp313-cp313-macosx_10_13_x86_64.whl", hash = "sha256:25a1992b0a3fdcdaec9f552ef10d8103186f5397ab45e2d25f8ac51b1a6b97e8", size = 20889381 },
-    { url = "https://files.pythonhosted.org/packages/f1/4f/df5923874d8095b6062495b39729178eef4a922119cee32a12ee1bd4664c/numpy-2.3.1-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:7dea630156d39b02a63c18f508f85010230409db5b2927ba59c8ba4ab3e8272e", size = 14152726 },
-    { url = "https://files.pythonhosted.org/packages/8c/0f/a1f269b125806212a876f7efb049b06c6f8772cf0121139f97774cd95626/numpy-2.3.1-cp313-cp313-macosx_14_0_arm64.whl", hash = "sha256:bada6058dd886061f10ea15f230ccf7dfff40572e99fef440a4a857c8728c9c0", size = 5105145 },
-    { url = "https://files.pythonhosted.org/packages/6d/63/a7f7fd5f375b0361682f6ffbf686787e82b7bbd561268e4f30afad2bb3c0/numpy-2.3.1-cp313-cp313-macosx_14_0_x86_64.whl", hash = "sha256:a894f3816eb17b29e4783e5873f92faf55b710c2519e5c351767c51f79d8526d", size = 6639409 },
-    { url = "https://files.pythonhosted.org/packages/bf/0d/1854a4121af895aab383f4aa233748f1df4671ef331d898e32426756a8a6/numpy-2.3.1-cp313-cp313-manylinux_2_28_aarch64.whl", hash = "sha256:18703df6c4a4fee55fd3d6e5a253d01c5d33a295409b03fda0c86b3ca2ff41a1", size = 14257630 },
-    { url = "https://files.pythonhosted.org/packages/50/30/af1b277b443f2fb08acf1c55ce9d68ee540043f158630d62cef012750f9f/numpy-2.3.1-cp313-cp313-manylinux_2_28_x86_64.whl", hash = "sha256:5902660491bd7a48b2ec16c23ccb9124b8abfd9583c5fdfa123fe6b421e03de1", size = 16627546 },
-    { url = "https://files.pythonhosted.org/packages/6e/ec/3b68220c277e463095342d254c61be8144c31208db18d3fd8ef02712bcd6/numpy-2.3.1-cp313-cp313-musllinux_1_2_aarch64.whl", hash = "sha256:36890eb9e9d2081137bd78d29050ba63b8dab95dff7912eadf1185e80074b2a0", size = 15562538 },
-    { url = "https://files.pythonhosted.org/packages/77/2b/4014f2bcc4404484021c74d4c5ee8eb3de7e3f7ac75f06672f8dcf85140a/numpy-2.3.1-cp313-cp313-musllinux_1_2_x86_64.whl", hash = "sha256:a780033466159c2270531e2b8ac063704592a0bc62ec4a1b991c7c40705eb0e8", size = 18360327 },
-    { url = "https://files.pythonhosted.org/packages/40/8d/2ddd6c9b30fcf920837b8672f6c65590c7d92e43084c25fc65edc22e93ca/numpy-2.3.1-cp313-cp313-win32.whl", hash = "sha256:39bff12c076812595c3a306f22bfe49919c5513aa1e0e70fac756a0be7c2a2b8", size = 6312330 },
-    { url = "https://files.pythonhosted.org/packages/dd/c8/beaba449925988d415efccb45bf977ff8327a02f655090627318f6398c7b/numpy-2.3.1-cp313-cp313-win_amd64.whl", hash = "sha256:8d5ee6eec45f08ce507a6570e06f2f879b374a552087a4179ea7838edbcbfa42", size = 12731565 },
-    { url = "https://files.pythonhosted.org/packages/0b/c3/5c0c575d7ec78c1126998071f58facfc124006635da75b090805e642c62e/numpy-2.3.1-cp313-cp313-win_arm64.whl", hash = "sha256:0c4d9e0a8368db90f93bd192bfa771ace63137c3488d198ee21dfb8e7771916e", size = 10190262 },
-    { url = "https://files.pythonhosted.org/packages/ea/19/a029cd335cf72f79d2644dcfc22d90f09caa86265cbbde3b5702ccef6890/numpy-2.3.1-cp313-cp313t-macosx_10_13_x86_64.whl", hash = "sha256:b0b5397374f32ec0649dd98c652a1798192042e715df918c20672c62fb52d4b8", size = 20987593 },
-    { url = "https://files.pythonhosted.org/packages/25/91/8ea8894406209107d9ce19b66314194675d31761fe2cb3c84fe2eeae2f37/numpy-2.3.1-cp313-cp313t-macosx_11_0_arm64.whl", hash = "sha256:c5bdf2015ccfcee8253fb8be695516ac4457c743473a43290fd36eba6a1777eb", size = 14300523 },
-    { url = "https://files.pythonhosted.org/packages/a6/7f/06187b0066eefc9e7ce77d5f2ddb4e314a55220ad62dd0bfc9f2c44bac14/numpy-2.3.1-cp313-cp313t-macosx_14_0_arm64.whl", hash = "sha256:d70f20df7f08b90a2062c1f07737dd340adccf2068d0f1b9b3d56e2038979fee", size = 5227993 },
-    { url = "https://files.pythonhosted.org/packages/e8/ec/a926c293c605fa75e9cfb09f1e4840098ed46d2edaa6e2152ee35dc01ed3/numpy-2.3.1-cp313-cp313t-macosx_14_0_x86_64.whl", hash = "sha256:2fb86b7e58f9ac50e1e9dd1290154107e47d1eef23a0ae9145ded06ea606f992", size = 6736652 },
-    { url = "https://files.pythonhosted.org/packages/e3/62/d68e52fb6fde5586650d4c0ce0b05ff3a48ad4df4ffd1b8866479d1d671d/numpy-2.3.1-cp313-cp313t-manylinux_2_28_aarch64.whl", hash = "sha256:23ab05b2d241f76cb883ce8b9a93a680752fbfcbd51c50eff0b88b979e471d8c", size = 14331561 },
-    { url = "https://files.pythonhosted.org/packages/fc/ec/b74d3f2430960044bdad6900d9f5edc2dc0fb8bf5a0be0f65287bf2cbe27/numpy-2.3.1-cp313-cp313t-manylinux_2_28_x86_64.whl", hash = "sha256:ce2ce9e5de4703a673e705183f64fd5da5bf36e7beddcb63a25ee2286e71ca48", size = 16693349 },
-    { url = "https://files.pythonhosted.org/packages/0d/15/def96774b9d7eb198ddadfcbd20281b20ebb510580419197e225f5c55c3e/numpy-2.3.1-cp313-cp313t-musllinux_1_2_aarch64.whl", hash = "sha256:c4913079974eeb5c16ccfd2b1f09354b8fed7e0d6f2cab933104a09a6419b1ee", size = 15642053 },
-    { url = "https://files.pythonhosted.org/packages/2b/57/c3203974762a759540c6ae71d0ea2341c1fa41d84e4971a8e76d7141678a/numpy-2.3.1-cp313-cp313t-musllinux_1_2_x86_64.whl", hash = "sha256:010ce9b4f00d5c036053ca684c77441f2f2c934fd23bee058b4d6f196efd8280", size = 18434184 },
-    { url = "https://files.pythonhosted.org/packages/22/8a/ccdf201457ed8ac6245187850aff4ca56a79edbea4829f4e9f14d46fa9a5/numpy-2.3.1-cp313-cp313t-win32.whl", hash = "sha256:6269b9edfe32912584ec496d91b00b6d34282ca1d07eb10e82dfc780907d6c2e", size = 6440678 },
-    { url = "https://files.pythonhosted.org/packages/f1/7e/7f431d8bd8eb7e03d79294aed238b1b0b174b3148570d03a8a8a8f6a0da9/numpy-2.3.1-cp313-cp313t-win_amd64.whl", hash = "sha256:2a809637460e88a113e186e87f228d74ae2852a2e0c44de275263376f17b5bdc", size = 12870697 },
-    { url = "https://files.pythonhosted.org/packages/d4/ca/af82bf0fad4c3e573c6930ed743b5308492ff19917c7caaf2f9b6f9e2e98/numpy-2.3.1-cp313-cp313t-win_arm64.whl", hash = "sha256:eccb9a159db9aed60800187bc47a6d3451553f0e1b08b068d8b277ddfbb9b244", size = 10260376 },
-    { url = "https://files.pythonhosted.org/packages/e8/34/facc13b9b42ddca30498fc51f7f73c3d0f2be179943a4b4da8686e259740/numpy-2.3.1-pp311-pypy311_pp73-macosx_10_15_x86_64.whl", hash = "sha256:ad506d4b09e684394c42c966ec1527f6ebc25da7f4da4b1b056606ffe446b8a3", size = 21070637 },
-    { url = "https://files.pythonhosted.org/packages/65/b6/41b705d9dbae04649b529fc9bd3387664c3281c7cd78b404a4efe73dcc45/numpy-2.3.1-pp311-pypy311_pp73-macosx_14_0_arm64.whl", hash = "sha256:ebb8603d45bc86bbd5edb0d63e52c5fd9e7945d3a503b77e486bd88dde67a19b", size = 5304087 },
-    { url = "https://files.pythonhosted.org/packages/7a/b4/fe3ac1902bff7a4934a22d49e1c9d71a623204d654d4cc43c6e8fe337fcb/numpy-2.3.1-pp311-pypy311_pp73-macosx_14_0_x86_64.whl", hash = "sha256:15aa4c392ac396e2ad3d0a2680c0f0dee420f9fed14eef09bdb9450ee6dcb7b7", size = 6817588 },
-    { url = "https://files.pythonhosted.org/packages/ae/ee/89bedf69c36ace1ac8f59e97811c1f5031e179a37e4821c3a230bf750142/numpy-2.3.1-pp311-pypy311_pp73-manylinux_2_28_aarch64.whl", hash = "sha256:c6e0bf9d1a2f50d2b65a7cf56db37c095af17b59f6c132396f7c6d5dd76484df", size = 14399010 },
-    { url = "https://files.pythonhosted.org/packages/15/08/e00e7070ede29b2b176165eba18d6f9784d5349be3c0c1218338e79c27fd/numpy-2.3.1-pp311-pypy311_pp73-manylinux_2_28_x86_64.whl", hash = "sha256:eabd7e8740d494ce2b4ea0ff05afa1b7b291e978c0ae075487c51e8bd93c0c68", size = 16752042 },
-    { url = "https://files.pythonhosted.org/packages/48/6b/1c6b515a83d5564b1698a61efa245727c8feecf308f4091f565988519d20/numpy-2.3.1-pp311-pypy311_pp73-win_amd64.whl", hash = "sha256:e610832418a2bc09d974cc9fecebfa51e9532d6190223bc5ef6a7402ebf3b5cb", size = 12927246 },
 ]
 
 [[package]]
@@ -2629,6 +3069,26 @@ wheels = [
 ]
 
 [[package]]
+name = "openai-whisper"
+version = "20250625"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "more-itertools" },
+    { name = "numba", version = "0.60.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numba", version = "0.61.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "tiktoken" },
+    { name = "torch", version = "2.7.1", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "(sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu') or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "torch", version = "2.7.1", source = { registry = "https://pypi.org/simple" }, marker = "(extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')" },
+    { name = "torch", version = "2.7.1+cpu", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "(sys_platform != 'darwin' and extra == 'extra-18-subtitle-generator-cpu') or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "torch", version = "2.7.1+cu128", source = { registry = "https://download.pytorch.org/whl/cu128" }, marker = "extra == 'extra-18-subtitle-generator-cu128'" },
+    { name = "tqdm" },
+    { name = "triton", marker = "(platform_machine == 'x86_64' and sys_platform == 'linux') or (platform_machine != 'x86_64' and extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or sys_platform == 'linux2' or (sys_platform != 'linux' and extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/35/8e/d36f8880bcf18ec026a55807d02fe4c7357da9f25aebd92f85178000c0dc/openai_whisper-20250625.tar.gz", hash = "sha256:37a91a3921809d9f44748ffc73c0a55c9f366c85a3ef5c2ae0cc09540432eb96", size = 803191 }
+
+[[package]]
 name = "optuna"
 version = "4.4.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2636,8 +3096,7 @@ dependencies = [
     { name = "alembic" },
     { name = "colorlog" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "packaging" },
     { name = "pyyaml" },
     { name = "sqlalchemy" },
@@ -2663,8 +3122,7 @@ version = "2.3.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "python-dateutil" },
     { name = "pytz" },
     { name = "tzdata" },
@@ -3008,8 +3466,7 @@ version = "5.0.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scipy", version = "1.13.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scipy", version = "1.15.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scipy", version = "1.16.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
@@ -3045,8 +3502,7 @@ dependencies = [
     { name = "matplotlib", version = "3.9.4", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "matplotlib", version = "3.10.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "pandas" },
     { name = "pyannote-core" },
     { name = "pyannote-database" },
@@ -3304,8 +3760,7 @@ version = "2.8.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scikit-learn", version = "1.6.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scikit-learn", version = "1.7.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "torch", version = "2.7.1", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "(sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu') or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
@@ -3587,28 +4042,6 @@ wheels = [
 ]
 
 [[package]]
-name = "safetensors"
-version = "0.5.3"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/71/7e/2d5d6ee7b40c0682315367ec7475693d110f512922d582fef1bd4a63adc3/safetensors-0.5.3.tar.gz", hash = "sha256:b6b0d6ecacec39a4fdd99cc19f4576f5219ce858e6fd8dbe7609df0b8dc56965", size = 67210 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/18/ae/88f6c49dbd0cc4da0e08610019a3c78a7d390879a919411a410a1876d03a/safetensors-0.5.3-cp38-abi3-macosx_10_12_x86_64.whl", hash = "sha256:bd20eb133db8ed15b40110b7c00c6df51655a2998132193de2f75f72d99c7073", size = 436917 },
-    { url = "https://files.pythonhosted.org/packages/b8/3b/11f1b4a2f5d2ab7da34ecc062b0bc301f2be024d110a6466726bec8c055c/safetensors-0.5.3-cp38-abi3-macosx_11_0_arm64.whl", hash = "sha256:21d01c14ff6c415c485616b8b0bf961c46b3b343ca59110d38d744e577f9cce7", size = 418419 },
-    { url = "https://files.pythonhosted.org/packages/5d/9a/add3e6fef267658075c5a41573c26d42d80c935cdc992384dfae435feaef/safetensors-0.5.3-cp38-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:11bce6164887cd491ca75c2326a113ba934be596e22b28b1742ce27b1d076467", size = 459493 },
-    { url = "https://files.pythonhosted.org/packages/df/5c/bf2cae92222513cc23b3ff85c4a1bb2811a2c3583ac0f8e8d502751de934/safetensors-0.5.3-cp38-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:4a243be3590bc3301c821da7a18d87224ef35cbd3e5f5727e4e0728b8172411e", size = 472400 },
-    { url = "https://files.pythonhosted.org/packages/58/11/7456afb740bd45782d0f4c8e8e1bb9e572f1bf82899fb6ace58af47b4282/safetensors-0.5.3-cp38-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:8bd84b12b1670a6f8e50f01e28156422a2bc07fb16fc4e98bded13039d688a0d", size = 522891 },
-    { url = "https://files.pythonhosted.org/packages/57/3d/fe73a9d2ace487e7285f6e157afee2383bd1ddb911b7cb44a55cf812eae3/safetensors-0.5.3-cp38-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:391ac8cab7c829452175f871fcaf414aa1e292b5448bd02620f675a7f3e7abb9", size = 537694 },
-    { url = "https://files.pythonhosted.org/packages/a6/f8/dae3421624fcc87a89d42e1898a798bc7ff72c61f38973a65d60df8f124c/safetensors-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:cead1fa41fc54b1e61089fa57452e8834f798cb1dc7a09ba3524f1eb08e0317a", size = 471642 },
-    { url = "https://files.pythonhosted.org/packages/ce/20/1fbe16f9b815f6c5a672f5b760951e20e17e43f67f231428f871909a37f6/safetensors-0.5.3-cp38-abi3-manylinux_2_5_i686.manylinux1_i686.whl", hash = "sha256:1077f3e94182d72618357b04b5ced540ceb71c8a813d3319f1aba448e68a770d", size = 502241 },
-    { url = "https://files.pythonhosted.org/packages/5f/18/8e108846b506487aa4629fe4116b27db65c3dde922de2c8e0cc1133f3f29/safetensors-0.5.3-cp38-abi3-musllinux_1_2_aarch64.whl", hash = "sha256:799021e78287bac619c7b3f3606730a22da4cda27759ddf55d37c8db7511c74b", size = 638001 },
-    { url = "https://files.pythonhosted.org/packages/82/5a/c116111d8291af6c8c8a8b40628fe833b9db97d8141c2a82359d14d9e078/safetensors-0.5.3-cp38-abi3-musllinux_1_2_armv7l.whl", hash = "sha256:df26da01aaac504334644e1b7642fa000bfec820e7cef83aeac4e355e03195ff", size = 734013 },
-    { url = "https://files.pythonhosted.org/packages/7d/ff/41fcc4d3b7de837963622e8610d998710705bbde9a8a17221d85e5d0baad/safetensors-0.5.3-cp38-abi3-musllinux_1_2_i686.whl", hash = "sha256:32c3ef2d7af8b9f52ff685ed0bc43913cdcde135089ae322ee576de93eae5135", size = 670687 },
-    { url = "https://files.pythonhosted.org/packages/40/ad/2b113098e69c985a3d8fbda4b902778eae4a35b7d5188859b4a63d30c161/safetensors-0.5.3-cp38-abi3-musllinux_1_2_x86_64.whl", hash = "sha256:37f1521be045e56fc2b54c606d4455573e717b2d887c579ee1dbba5f868ece04", size = 643147 },
-    { url = "https://files.pythonhosted.org/packages/0a/0c/95aeb51d4246bd9a3242d3d8349c1112b4ee7611a4b40f0c5c93b05f001d/safetensors-0.5.3-cp38-abi3-win32.whl", hash = "sha256:cfc0ec0846dcf6763b0ed3d1846ff36008c6e7290683b61616c4b040f6a54ace", size = 296677 },
-    { url = "https://files.pythonhosted.org/packages/69/e2/b011c38e5394c4c18fb5500778a55ec43ad6106126e74723ffaee246f56e/safetensors-0.5.3-cp38-abi3-win_amd64.whl", hash = "sha256:836cbbc320b47e80acd40e44c8682db0e8ad7123209f69b093def21ec7cafd11", size = 308878 },
-]
-
-[[package]]
 name = "scikit-learn"
 version = "1.6.1"
 source = { registry = "https://pypi.org/simple" }
@@ -3685,8 +4118,7 @@ resolution-markers = [
 ]
 dependencies = [
     { name = "joblib", marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scipy", version = "1.15.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scipy", version = "1.16.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "threadpoolctl", marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
@@ -3845,7 +4277,7 @@ resolution-markers = [
     "python_full_version == '3.11.*' and extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128'",
 ]
 dependencies = [
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/81/18/b06a83f0c5ee8cddbde5e3f3d0bb9b702abfa5136ef6d4620ff67df7eee5/scipy-1.16.0.tar.gz", hash = "sha256:b5ef54021e832869c8cfb03bc3bf20366cbcd426e02a58e8a58d7584dfbb8f62", size = 30581216 }
 wheels = [
@@ -3885,6 +4317,15 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/ce/b3/21001cff985a122ba434c33f2c9d7d1dc3b669827e94f4fc4e1fe8b9dfd8/scipy-1.16.0-cp313-cp313t-musllinux_1_2_aarch64.whl", hash = "sha256:4f720300a3024c237ace1cb11f9a84c38beb19616ba7c4cdcd771047a10a1706", size = 35570990 },
     { url = "https://files.pythonhosted.org/packages/e5/d3/7ba42647d6709251cdf97043d0c107e0317e152fa2f76873b656b509ff55/scipy-1.16.0-cp313-cp313t-musllinux_1_2_x86_64.whl", hash = "sha256:aad603e9339ddb676409b104c48a027e9916ce0d2838830691f39552b38a352e", size = 37950262 },
     { url = "https://files.pythonhosted.org/packages/eb/c4/231cac7a8385394ebbbb4f1ca662203e9d8c332825ab4f36ffc3ead09a42/scipy-1.16.0-cp313-cp313t-win_amd64.whl", hash = "sha256:f56296fefca67ba605fd74d12f7bd23636267731a72cb3947963e76b8c0a25db", size = 38515076 },
+]
+
+[[package]]
+name = "semantic-version"
+version = "2.10.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/7d/31/f2289ce78b9b473d582568c234e104d2a342fd658cc288a7553d83bb8595/semantic_version-2.10.0.tar.gz", hash = "sha256:bdabb6d336998cbb378d4b9db3a4b56a1e3235701dc05ea2690d9a997ed5041c", size = 52289 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/6a/23/8146aad7d88f4fcb3a6218f41a60f6c2d4e3a72de72da1825dc7c8f7877c/semantic_version-2.10.0-py2.py3-none-any.whl", hash = "sha256:de78a3b8e0feda74cabc54aab2da702113e33ac9d9eb9d2389bcf1f58b7d9177", size = 15552 },
 ]
 
 [[package]]
@@ -3946,6 +4387,19 @@ wheels = [
 ]
 
 [[package]]
+name = "setuptools-rust"
+version = "1.11.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "semantic-version" },
+    { name = "setuptools" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/e0/92/bf8589b1a2b6107cf9ec8daa9954c0b7620643fe1f37d31d75e572d995f5/setuptools_rust-1.11.1.tar.gz", hash = "sha256:7dabc4392252ced314b8050d63276e05fdc5d32398fc7d3cce1f6a6ac35b76c0", size = 310804 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/b3/01/37e1376f80578882e4f2d451f57d1fb42a599832057a123f57d9f26395c8/setuptools_rust-1.11.1-py3-none-any.whl", hash = "sha256:5eaaddaed268dc24a527ffa659ce56b22d3cf17b781247b779efd611031fe8ea", size = 28120 },
+]
+
+[[package]]
 name = "shellingham"
 version = "1.5.4"
 source = { registry = "https://pypi.org/simple" }
@@ -3988,8 +4442,7 @@ source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "cffi" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/e1/41/9b873a8c055582859b239be17902a85339bec6a30ad162f98c9b0288a2cc/soundfile-0.13.1.tar.gz", hash = "sha256:b2c68dab1e30297317080a5b43df57e302584c49e2942defdde0acccc53f0e5b", size = 46156 }
 wheels = [
@@ -4011,8 +4464,7 @@ dependencies = [
     { name = "hyperpyyaml" },
     { name = "joblib" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "packaging" },
     { name = "scipy", version = "1.13.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "scipy", version = "1.15.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
@@ -4104,11 +4556,13 @@ dependencies = [
     { name = "flet" },
     { name = "flet-video" },
     { name = "moviepy" },
+    { name = "numba", version = "0.60.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numba", version = "0.61.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "openai-whisper" },
     { name = "pyannote-audio" },
-    { name = "transformers" },
+    { name = "setuptools-rust" },
 ]
 
 [package.optional-dependencies]
@@ -4136,15 +4590,17 @@ requires-dist = [
     { name = "flet", specifier = "==0.28.3" },
     { name = "flet-video", specifier = ">=0.1.1" },
     { name = "moviepy", specifier = ">=2.2.1" },
+    { name = "numba", specifier = ">=0.60.0" },
     { name = "numpy", specifier = ">=2.0.2" },
+    { name = "openai-whisper", specifier = ">=20250625" },
     { name = "pyannote-audio", specifier = ">=3.3.2" },
+    { name = "setuptools-rust", specifier = ">=1.11.1" },
     { name = "torch", marker = "extra == 'cpu'", specifier = ">=2.7.0", index = "https://download.pytorch.org/whl/cpu", conflict = { package = "subtitle-generator", extra = "cpu" } },
     { name = "torch", marker = "extra == 'cu128'", specifier = ">=2.7.0", index = "https://download.pytorch.org/whl/cu128", conflict = { package = "subtitle-generator", extra = "cu128" } },
     { name = "torchaudio", marker = "extra == 'cpu'", specifier = ">=2.7.0" },
     { name = "torchaudio", marker = "extra == 'cu128'", specifier = ">=2.7.0" },
     { name = "torchvision", marker = "extra == 'cpu'", specifier = ">=0.22.0", index = "https://download.pytorch.org/whl/cpu", conflict = { package = "subtitle-generator", extra = "cpu" } },
     { name = "torchvision", marker = "extra == 'cu128'", specifier = ">=0.22.0", index = "https://download.pytorch.org/whl/cu128", conflict = { package = "subtitle-generator", extra = "cu128" } },
-    { name = "transformers", specifier = ">=4.53.1" },
 ]
 
 [package.metadata.requires-dev]
@@ -4177,8 +4633,7 @@ version = "2.6.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "packaging" },
     { name = "protobuf" },
 ]
@@ -4206,28 +4661,45 @@ wheels = [
 ]
 
 [[package]]
-name = "tokenizers"
-version = "0.21.2"
+name = "tiktoken"
+version = "0.9.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
-    { name = "huggingface-hub" },
+    { name = "regex" },
+    { name = "requests" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ab/2d/b0fce2b8201635f60e8c95990080f58461cc9ca3d5026de2e900f38a7f21/tokenizers-0.21.2.tar.gz", hash = "sha256:fdc7cffde3e2113ba0e6cc7318c40e3438a4d74bbc62bf04bcc63bdfb082ac77", size = 351545 }
+sdist = { url = "https://files.pythonhosted.org/packages/ea/cf/756fedf6981e82897f2d570dd25fa597eb3f4459068ae0572d7e888cfd6f/tiktoken-0.9.0.tar.gz", hash = "sha256:d02a5ca6a938e0490e1ff957bc48c8b078c88cb83977be1625b1fd8aac792c5d", size = 35991 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/1d/cc/2936e2d45ceb130a21d929743f1e9897514691bec123203e10837972296f/tokenizers-0.21.2-cp39-abi3-macosx_10_12_x86_64.whl", hash = "sha256:342b5dfb75009f2255ab8dec0041287260fed5ce00c323eb6bab639066fef8ec", size = 2875206 },
-    { url = "https://files.pythonhosted.org/packages/6c/e6/33f41f2cc7861faeba8988e7a77601407bf1d9d28fc79c5903f8f77df587/tokenizers-0.21.2-cp39-abi3-macosx_11_0_arm64.whl", hash = "sha256:126df3205d6f3a93fea80c7a8a266a78c1bd8dd2fe043386bafdd7736a23e45f", size = 2732655 },
-    { url = "https://files.pythonhosted.org/packages/33/2b/1791eb329c07122a75b01035b1a3aa22ad139f3ce0ece1b059b506d9d9de/tokenizers-0.21.2-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:4a32cd81be21168bd0d6a0f0962d60177c447a1aa1b1e48fa6ec9fc728ee0b12", size = 3019202 },
-    { url = "https://files.pythonhosted.org/packages/05/15/fd2d8104faa9f86ac68748e6f7ece0b5eb7983c7efc3a2c197cb98c99030/tokenizers-0.21.2-cp39-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:8bd8999538c405133c2ab999b83b17c08b7fc1b48c1ada2469964605a709ef91", size = 2934539 },
-    { url = "https://files.pythonhosted.org/packages/a5/2e/53e8fd053e1f3ffbe579ca5f9546f35ac67cf0039ed357ad7ec57f5f5af0/tokenizers-0.21.2-cp39-abi3-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:5e9944e61239b083a41cf8fc42802f855e1dca0f499196df37a8ce219abac6eb", size = 3248665 },
-    { url = "https://files.pythonhosted.org/packages/00/15/79713359f4037aa8f4d1f06ffca35312ac83629da062670e8830917e2153/tokenizers-0.21.2-cp39-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:514cd43045c5d546f01142ff9c79a96ea69e4b5cda09e3027708cb2e6d5762ab", size = 3451305 },
-    { url = "https://files.pythonhosted.org/packages/38/5f/959f3a8756fc9396aeb704292777b84f02a5c6f25c3fc3ba7530db5feb2c/tokenizers-0.21.2-cp39-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:b1b9405822527ec1e0f7d8d2fdb287a5730c3a6518189c968254a8441b21faae", size = 3214757 },
-    { url = "https://files.pythonhosted.org/packages/c5/74/f41a432a0733f61f3d21b288de6dfa78f7acff309c6f0f323b2833e9189f/tokenizers-0.21.2-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:fed9a4d51c395103ad24f8e7eb976811c57fbec2af9f133df471afcd922e5020", size = 3121887 },
-    { url = "https://files.pythonhosted.org/packages/3c/6a/bc220a11a17e5d07b0dfb3b5c628621d4dcc084bccd27cfaead659963016/tokenizers-0.21.2-cp39-abi3-musllinux_1_2_aarch64.whl", hash = "sha256:2c41862df3d873665ec78b6be36fcc30a26e3d4902e9dd8608ed61d49a48bc19", size = 9091965 },
-    { url = "https://files.pythonhosted.org/packages/6c/bd/ac386d79c4ef20dc6f39c4706640c24823dca7ebb6f703bfe6b5f0292d88/tokenizers-0.21.2-cp39-abi3-musllinux_1_2_armv7l.whl", hash = "sha256:ed21dc7e624e4220e21758b2e62893be7101453525e3d23264081c9ef9a6d00d", size = 9053372 },
-    { url = "https://files.pythonhosted.org/packages/63/7b/5440bf203b2a5358f074408f7f9c42884849cd9972879e10ee6b7a8c3b3d/tokenizers-0.21.2-cp39-abi3-musllinux_1_2_i686.whl", hash = "sha256:0e73770507e65a0e0e2a1affd6b03c36e3bc4377bd10c9ccf51a82c77c0fe365", size = 9298632 },
-    { url = "https://files.pythonhosted.org/packages/a4/d2/faa1acac3f96a7427866e94ed4289949b2524f0c1878512516567d80563c/tokenizers-0.21.2-cp39-abi3-musllinux_1_2_x86_64.whl", hash = "sha256:106746e8aa9014a12109e58d540ad5465b4c183768ea96c03cbc24c44d329958", size = 9470074 },
-    { url = "https://files.pythonhosted.org/packages/d8/a5/896e1ef0707212745ae9f37e84c7d50269411aef2e9ccd0de63623feecdf/tokenizers-0.21.2-cp39-abi3-win32.whl", hash = "sha256:cabda5a6d15d620b6dfe711e1af52205266d05b379ea85a8a301b3593c60e962", size = 2330115 },
-    { url = "https://files.pythonhosted.org/packages/13/c3/cc2755ee10be859c4338c962a35b9a663788c0c0b50c0bdd8078fb6870cf/tokenizers-0.21.2-cp39-abi3-win_amd64.whl", hash = "sha256:58747bb898acdb1007f37a7bbe614346e98dc28708ffb66a3fd50ce169ac6c98", size = 2509918 },
+    { url = "https://files.pythonhosted.org/packages/64/f3/50ec5709fad61641e4411eb1b9ac55b99801d71f1993c29853f256c726c9/tiktoken-0.9.0-cp310-cp310-macosx_10_12_x86_64.whl", hash = "sha256:586c16358138b96ea804c034b8acf3f5d3f0258bd2bc3b0227af4af5d622e382", size = 1065770 },
+    { url = "https://files.pythonhosted.org/packages/d6/f8/5a9560a422cf1755b6e0a9a436e14090eeb878d8ec0f80e0cd3d45b78bf4/tiktoken-0.9.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:d9c59ccc528c6c5dd51820b3474402f69d9a9e1d656226848ad68a8d5b2e5108", size = 1009314 },
+    { url = "https://files.pythonhosted.org/packages/bc/20/3ed4cfff8f809cb902900ae686069e029db74567ee10d017cb254df1d598/tiktoken-0.9.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:f0968d5beeafbca2a72c595e8385a1a1f8af58feaebb02b227229b69ca5357fd", size = 1143140 },
+    { url = "https://files.pythonhosted.org/packages/f1/95/cc2c6d79df8f113bdc6c99cdec985a878768120d87d839a34da4bd3ff90a/tiktoken-0.9.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:92a5fb085a6a3b7350b8fc838baf493317ca0e17bd95e8642f95fc69ecfed1de", size = 1197860 },
+    { url = "https://files.pythonhosted.org/packages/c7/6c/9c1a4cc51573e8867c9381db1814223c09ebb4716779c7f845d48688b9c8/tiktoken-0.9.0-cp310-cp310-musllinux_1_2_x86_64.whl", hash = "sha256:15a2752dea63d93b0332fb0ddb05dd909371ededa145fe6a3242f46724fa7990", size = 1259661 },
+    { url = "https://files.pythonhosted.org/packages/cd/4c/22eb8e9856a2b1808d0a002d171e534eac03f96dbe1161978d7389a59498/tiktoken-0.9.0-cp310-cp310-win_amd64.whl", hash = "sha256:26113fec3bd7a352e4b33dbaf1bd8948de2507e30bd95a44e2b1156647bc01b4", size = 894026 },
+    { url = "https://files.pythonhosted.org/packages/4d/ae/4613a59a2a48e761c5161237fc850eb470b4bb93696db89da51b79a871f1/tiktoken-0.9.0-cp311-cp311-macosx_10_12_x86_64.whl", hash = "sha256:f32cc56168eac4851109e9b5d327637f15fd662aa30dd79f964b7c39fbadd26e", size = 1065987 },
+    { url = "https://files.pythonhosted.org/packages/3f/86/55d9d1f5b5a7e1164d0f1538a85529b5fcba2b105f92db3622e5d7de6522/tiktoken-0.9.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:45556bc41241e5294063508caf901bf92ba52d8ef9222023f83d2483a3055348", size = 1009155 },
+    { url = "https://files.pythonhosted.org/packages/03/58/01fb6240df083b7c1916d1dcb024e2b761213c95d576e9f780dfb5625a76/tiktoken-0.9.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:03935988a91d6d3216e2ec7c645afbb3d870b37bcb67ada1943ec48678e7ee33", size = 1142898 },
+    { url = "https://files.pythonhosted.org/packages/b1/73/41591c525680cd460a6becf56c9b17468d3711b1df242c53d2c7b2183d16/tiktoken-0.9.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:8b3d80aad8d2c6b9238fc1a5524542087c52b860b10cbf952429ffb714bc1136", size = 1197535 },
+    { url = "https://files.pythonhosted.org/packages/7d/7c/1069f25521c8f01a1a182f362e5c8e0337907fae91b368b7da9c3e39b810/tiktoken-0.9.0-cp311-cp311-musllinux_1_2_x86_64.whl", hash = "sha256:b2a21133be05dc116b1d0372af051cd2c6aa1d2188250c9b553f9fa49301b336", size = 1259548 },
+    { url = "https://files.pythonhosted.org/packages/6f/07/c67ad1724b8e14e2b4c8cca04b15da158733ac60136879131db05dda7c30/tiktoken-0.9.0-cp311-cp311-win_amd64.whl", hash = "sha256:11a20e67fdf58b0e2dea7b8654a288e481bb4fc0289d3ad21291f8d0849915fb", size = 893895 },
+    { url = "https://files.pythonhosted.org/packages/cf/e5/21ff33ecfa2101c1bb0f9b6df750553bd873b7fb532ce2cb276ff40b197f/tiktoken-0.9.0-cp312-cp312-macosx_10_13_x86_64.whl", hash = "sha256:e88f121c1c22b726649ce67c089b90ddda8b9662545a8aeb03cfef15967ddd03", size = 1065073 },
+    { url = "https://files.pythonhosted.org/packages/8e/03/a95e7b4863ee9ceec1c55983e4cc9558bcfd8f4f80e19c4f8a99642f697d/tiktoken-0.9.0-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:a6600660f2f72369acb13a57fb3e212434ed38b045fd8cc6cdd74947b4b5d210", size = 1008075 },
+    { url = "https://files.pythonhosted.org/packages/40/10/1305bb02a561595088235a513ec73e50b32e74364fef4de519da69bc8010/tiktoken-0.9.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:95e811743b5dfa74f4b227927ed86cbc57cad4df859cb3b643be797914e41794", size = 1140754 },
+    { url = "https://files.pythonhosted.org/packages/1b/40/da42522018ca496432ffd02793c3a72a739ac04c3794a4914570c9bb2925/tiktoken-0.9.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:99376e1370d59bcf6935c933cb9ba64adc29033b7e73f5f7569f3aad86552b22", size = 1196678 },
+    { url = "https://files.pythonhosted.org/packages/5c/41/1e59dddaae270ba20187ceb8aa52c75b24ffc09f547233991d5fd822838b/tiktoken-0.9.0-cp312-cp312-musllinux_1_2_x86_64.whl", hash = "sha256:badb947c32739fb6ddde173e14885fb3de4d32ab9d8c591cbd013c22b4c31dd2", size = 1259283 },
+    { url = "https://files.pythonhosted.org/packages/5b/64/b16003419a1d7728d0d8c0d56a4c24325e7b10a21a9dd1fc0f7115c02f0a/tiktoken-0.9.0-cp312-cp312-win_amd64.whl", hash = "sha256:5a62d7a25225bafed786a524c1b9f0910a1128f4232615bf3f8257a73aaa3b16", size = 894897 },
+    { url = "https://files.pythonhosted.org/packages/7a/11/09d936d37f49f4f494ffe660af44acd2d99eb2429d60a57c71318af214e0/tiktoken-0.9.0-cp313-cp313-macosx_10_13_x86_64.whl", hash = "sha256:2b0e8e05a26eda1249e824156d537015480af7ae222ccb798e5234ae0285dbdb", size = 1064919 },
+    { url = "https://files.pythonhosted.org/packages/80/0e/f38ba35713edb8d4197ae602e80837d574244ced7fb1b6070b31c29816e0/tiktoken-0.9.0-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:27d457f096f87685195eea0165a1807fae87b97b2161fe8c9b1df5bd74ca6f63", size = 1007877 },
+    { url = "https://files.pythonhosted.org/packages/fe/82/9197f77421e2a01373e27a79dd36efdd99e6b4115746ecc553318ecafbf0/tiktoken-0.9.0-cp313-cp313-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:2cf8ded49cddf825390e36dd1ad35cd49589e8161fdcb52aa25f0583e90a3e01", size = 1140095 },
+    { url = "https://files.pythonhosted.org/packages/f2/bb/4513da71cac187383541facd0291c4572b03ec23c561de5811781bbd988f/tiktoken-0.9.0-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:cc156cb314119a8bb9748257a2eaebd5cc0753b6cb491d26694ed42fc7cb3139", size = 1195649 },
+    { url = "https://files.pythonhosted.org/packages/fa/5c/74e4c137530dd8504e97e3a41729b1103a4ac29036cbfd3250b11fd29451/tiktoken-0.9.0-cp313-cp313-musllinux_1_2_x86_64.whl", hash = "sha256:cd69372e8c9dd761f0ab873112aba55a0e3e506332dd9f7522ca466e817b1b7a", size = 1258465 },
+    { url = "https://files.pythonhosted.org/packages/de/a8/8f499c179ec900783ffe133e9aab10044481679bb9aad78436d239eee716/tiktoken-0.9.0-cp313-cp313-win_amd64.whl", hash = "sha256:5ea0edb6f83dc56d794723286215918c1cde03712cbbafa0348b33448faf5b95", size = 894669 },
+    { url = "https://files.pythonhosted.org/packages/c4/92/4d681b5c066d417b98f22a0176358d9e606e183c6b61c337d61fb54accb4/tiktoken-0.9.0-cp39-cp39-macosx_10_12_x86_64.whl", hash = "sha256:c6386ca815e7d96ef5b4ac61e0048cd32ca5a92d5781255e13b31381d28667dc", size = 1066217 },
+    { url = "https://files.pythonhosted.org/packages/12/dd/af27bbe186df481666de48cf0f2f4e0643ba9c78b472e7bf70144c663b22/tiktoken-0.9.0-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:75f6d5db5bc2c6274b674ceab1615c1778e6416b14705827d19b40e6355f03e0", size = 1009441 },
+    { url = "https://files.pythonhosted.org/packages/33/35/2792b7dcb8b150d2767322637513c73a3e80833c19212efea80b31087894/tiktoken-0.9.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:e15b16f61e6f4625a57a36496d28dd182a8a60ec20a534c5343ba3cafa156ac7", size = 1144423 },
+    { url = "https://files.pythonhosted.org/packages/65/ae/4d1682510172ce3500bbed3b206ebc4efefe280f0bf1179cfb043f88cc16/tiktoken-0.9.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3ebcec91babf21297022882344c3f7d9eed855931466c3311b1ad6b64befb3df", size = 1199002 },
+    { url = "https://files.pythonhosted.org/packages/1c/2e/df2dc31dd161190f315829775a9652ea01d60f307af8f98e35bdd14a6a93/tiktoken-0.9.0-cp39-cp39-musllinux_1_2_x86_64.whl", hash = "sha256:e5fd49e7799579240f03913447c0cdfa1129625ebd5ac440787afc4345990427", size = 1260610 },
+    { url = "https://files.pythonhosted.org/packages/70/22/e8fc1bf9cdecc439b7ddc28a45b976a8c699a38874c070749d855696368a/tiktoken-0.9.0-cp39-cp39-win_amd64.whl", hash = "sha256:26242ca9dc8b58e875ff4ca078b9a94d2f0813e6a535dcd2205df5d49d927cc7", size = 894215 },
 ]
 
 [[package]]
@@ -4543,8 +5015,7 @@ source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "lightning-utilities" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "packaging" },
     { name = "torch", version = "2.7.1", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "(sys_platform == 'darwin' and extra == 'extra-18-subtitle-generator-cpu') or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
     { name = "torch", version = "2.7.1", source = { registry = "https://pypi.org/simple" }, marker = "(extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128') or (extra != 'extra-18-subtitle-generator-cpu' and extra != 'extra-18-subtitle-generator-cu128')" },
@@ -4572,8 +5043,7 @@ resolution-markers = [
 ]
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version < '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux') or (python_full_version < '3.10' and sys_platform == 'darwin')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux') or (python_full_version == '3.10.*' and sys_platform == 'darwin')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version >= '3.11' and platform_machine == 'aarch64' and sys_platform == 'linux') or (python_full_version >= '3.11' and sys_platform == 'darwin')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version >= '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux') or (python_full_version >= '3.10' and sys_platform == 'darwin')" },
     { name = "pillow", marker = "(platform_machine == 'aarch64' and sys_platform == 'linux') or sys_platform == 'darwin'" },
     { name = "torch", version = "2.7.1", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "sys_platform == 'darwin'" },
     { name = "torch", version = "2.7.1+cpu", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "platform_machine == 'aarch64' and sys_platform == 'linux'" },
@@ -4605,8 +5075,7 @@ resolution-markers = [
 ]
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux'" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' and platform_machine == 'aarch64' and sys_platform == 'linux'" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' and platform_machine == 'aarch64' and sys_platform == 'linux'" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10' and platform_machine == 'aarch64' and sys_platform == 'linux'" },
     { name = "pillow", marker = "platform_machine == 'aarch64' and sys_platform == 'linux'" },
     { name = "torch", version = "2.7.1+cu128", source = { registry = "https://download.pytorch.org/whl/cu128" }, marker = "platform_machine == 'aarch64' and sys_platform == 'linux'" },
 ]
@@ -4631,8 +5100,7 @@ resolution-markers = [
 ]
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version < '3.10' and platform_machine != 'aarch64' and sys_platform == 'linux') or (python_full_version < '3.10' and sys_platform != 'darwin' and sys_platform != 'linux')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version == '3.10.*' and platform_machine != 'aarch64' and sys_platform == 'linux') or (python_full_version == '3.10.*' and sys_platform != 'darwin' and sys_platform != 'linux')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version >= '3.11' and platform_machine != 'aarch64' and sys_platform == 'linux') or (python_full_version >= '3.11' and sys_platform != 'darwin' and sys_platform != 'linux')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version >= '3.10' and platform_machine != 'aarch64' and sys_platform == 'linux') or (python_full_version >= '3.10' and sys_platform != 'darwin' and sys_platform != 'linux')" },
     { name = "pillow", marker = "(platform_machine != 'aarch64' and sys_platform == 'linux') or (sys_platform != 'darwin' and sys_platform != 'linux')" },
     { name = "torch", version = "2.7.1+cpu", source = { registry = "https://download.pytorch.org/whl/cpu" }, marker = "(platform_machine != 'aarch64' and sys_platform == 'linux') or (sys_platform != 'darwin' and sys_platform != 'linux')" },
 ]
@@ -4663,8 +5131,7 @@ resolution-markers = [
 ]
 dependencies = [
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version < '3.10' and platform_machine != 'aarch64') or (python_full_version < '3.10' and sys_platform != 'linux')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version == '3.10.*' and platform_machine != 'aarch64') or (python_full_version == '3.10.*' and sys_platform != 'linux')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version >= '3.11' and platform_machine != 'aarch64') or (python_full_version >= '3.11' and sys_platform != 'linux')" },
+    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "(python_full_version >= '3.10' and platform_machine != 'aarch64') or (python_full_version >= '3.10' and sys_platform != 'linux')" },
     { name = "pillow", marker = "platform_machine != 'aarch64' or sys_platform != 'linux'" },
     { name = "torch", version = "2.7.1+cu128", source = { registry = "https://download.pytorch.org/whl/cu128" }, marker = "platform_machine != 'aarch64' or sys_platform != 'linux'" },
 ]
@@ -4696,34 +5163,11 @@ wheels = [
 ]
 
 [[package]]
-name = "transformers"
-version = "4.53.1"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "filelock" },
-    { name = "huggingface-hub" },
-    { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.10.*' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "numpy", version = "2.3.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11' or (extra == 'extra-18-subtitle-generator-cpu' and extra == 'extra-18-subtitle-generator-cu128')" },
-    { name = "packaging" },
-    { name = "pyyaml" },
-    { name = "regex" },
-    { name = "requests" },
-    { name = "safetensors" },
-    { name = "tokenizers" },
-    { name = "tqdm" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/9f/2c/68a0024c311db41bb92d4ec17d22e90b7406a4d28aa18d87662f2bbebcd9/transformers-4.53.1.tar.gz", hash = "sha256:da5a9f66ad480bc2a7f75bc32eaf735fd20ac56af4325ca4ce994021ceb37710", size = 9192189 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/8d/10/8cef2288810a3210659eb3a20711e8387cc35a881a7762ae387806e2d651/transformers-4.53.1-py3-none-any.whl", hash = "sha256:c84f3c3e41c71fdf2c60c8a893e1cd31191b0cb463385f4c276302d2052d837b", size = 10825681 },
-]
-
-[[package]]
 name = "triton"
 version = "3.3.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
-    { name = "setuptools", marker = "extra == 'extra-18-subtitle-generator-cu128'" },
+    { name = "setuptools" },
 ]
 wheels = [
     { url = "https://files.pythonhosted.org/packages/8d/a9/549e51e9b1b2c9b854fd761a1d23df0ba2fbc60bd0c13b489ffa518cfcb7/triton-3.3.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:b74db445b1c562844d3cfad6e9679c72e93fdfb1a90a24052b03bb5c49d1242e", size = 155600257 },
