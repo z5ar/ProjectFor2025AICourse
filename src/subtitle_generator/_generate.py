@@ -103,14 +103,33 @@ class SubtitleGenerator(object):
             print('STEP 4: Align transcription with speaker segments...')
             def contains(a,b):
                 return (a['start']-1 <= b['start']) and (a['end']+1 >= b['end'])
+            def crosses(a,b):
+                '''
+                    后相交 as<bs<ae<be 
+                    前相交 bs<as<be<ae
+                    包含于 bs<=as<ae<=be
+                '''
+                if a['start']<b['start']<a['end']<b['end']:
+                    return (a['end']-b['start'])/(b['end']-b['start'])
+                elif b['start']<a['start']<b['end']<a['end']:
+                    return (b['end']-a['start'])/(b['end']-b['start'])
+                else:
+                    return (a['end']-a['start'])/(b['end']-b['start'])
+                
             for i,line in enumerate(transcription_result):
-                for j,segment in enumerate(speaker_segments):
+                for segment in speaker_segments:
+                    # 包含，直接冲
                     if contains(segment,line):
                         line['speaker']=segment['speaker']
-                        transcription_result[i]=line
                         break
                 else:
-                    line['speaker']='BAD_ALIGNMENT'
+                    # 不包含，取相交区间最大者
+                    maxi,maxn=-1,-1
+                    for j,segment in enumerate(speaker_segments):
+                        if (n:=crosses(segment,line))>maxn:
+                            maxi,maxn=j,n
+                    line['speaker']=speaker_segments[maxi]['speaker']
+                transcription_result[i]=line
             print(transcription_result)
             return transcription_result
                         
@@ -139,7 +158,7 @@ class SubtitleGenerator(object):
             os.remove(mid_audio)
 
 
-        mid_audio='temp_audio.wav'
+        mid_audio=f'temp_{src_video}.wav'
         extract_audio(src_video,mid_audio)
         output_subtitle(
             dist_subtitle=dist_subtitle,
@@ -164,4 +183,6 @@ if __name__=='__main__':
     
     generator=SubtitleGenerator(token)
     generator.load_models()
-    generator.generate('test.mp4','test.srt')
+    generator.generate('2mintest.mp4','2mintest.srt')
+    # generator.generate('23mintest.mp4','23mintest.srt')
+    # generator.generate('10mintest.mp4','10mintest.srt')

@@ -16,9 +16,8 @@
 ## 2. 使用技术
 
 1. 图形界面制作：`flet`
-2. 语音识别：使用`facebook/wav2vec2-large-960h-lv60-self`模型，准确度堪忧（甚至有错别字），考虑更换为`whisper`
+2. 语音识别：初使用`facebook/wav2vec2`模型，准确度堪忧（甚至有错别字），后更换为`openai-whisper`
 3. 声纹分割聚类：使用`pyannote/speaker-diarization-3.1`模型
-
 
 ## 3. AI Prompt
 
@@ -37,3 +36,34 @@ uv sync --extra cpu
 ```
 uv sync --extra cu128
 ```
+
+## 效率参考
+
+测试电脑配置：
+|项目|配置|
+|---|---|
+|CPU|AMD Ryzen 7 7735H with Radeon Graphics   3.20 GHz|
+|RAM|16.0 GB|
+|GPU|NVIDIA GeForce RTX 4060 Laptop|
+
+测试时电脑使用独立显卡。
+
+1. 测试1：2min英语四级听力
+
+|项目|用时|
+|---|---|
+|提取音频|3s|
+|说话者辨别|70s|
+|语音识别|28s|
+|杂项|忽略不计|
+|生成总用时|101s|
+
+2. 测试2：约23min40s全套英语四级听力
+
+|项目|用时|
+|---|---|
+|提取音频|8.5s|
+|说话者辨别|967.5s|
+|语音识别|131s|
+|杂项|忽略不计|
+|生成总用时|1107s|
