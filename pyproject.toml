@@ -5,9 +5,12 @@ description = ""
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
-    { name = "Zhong Mingjie", email = "412052582@qq.com" }
+    { name = "Zhong Mingjie", email = "412052582@qq.com" },
+    { name = "Li Siyuan", email = "975570853@qq.com" }
+
 ]
 dependencies = [
+  "fastapi>=0.115.14",
   "flet==0.28.3",
   "flet-video>=0.1.1",
   "moviepy>=2.2.1",
@@ -32,9 +35,6 @@ company = "Poly-steel Co., Ltd."
 
 # copyright text to display in about app dialogs
 copyright = ""
-
-[tool.flet.app]
-path = "src"
 
 [tool.uv]
 dev-dependencies = [

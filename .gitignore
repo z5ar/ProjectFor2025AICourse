@@ -1,6 +1,5 @@
 .venv
-*copy*
-*copy*/*
 TOKEN
 *test*
-storage
+__pycache__
+config.toml
