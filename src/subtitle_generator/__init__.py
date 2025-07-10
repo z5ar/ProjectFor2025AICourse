@@ -1,0 +1,1 @@
+from ._generate import SubtitleGenerator

@@ -17,8 +17,9 @@ def mytimer(func):
     return ret
 
 class SubtitleGenerator(object):
-    def __init__(self,token):
+    def __init__(self,token,cache_dir='./models'):
         self.token=token
+        self.cache_dir=cache_dir
         self.asr_processor=None
         self.asr_model=None
         self.diarization_pipeline=None
@@ -27,12 +28,12 @@ class SubtitleGenerator(object):
     @mytimer
     def load_models(self):
         print('Loading speech recognition model...')
-        self.whisper_model=whisper.load_model('large-v3-turbo',download_root='./models/whisper')
+        self.whisper_model=whisper.load_model('large-v3-turbo',download_root=self.cache_dir+'/whisper')
         print(f'Loading speaker diarization model...')
         self.diarization_pipeline = Pipeline.from_pretrained(
             "pyannote/speaker-diarization-3.1",
             use_auth_token=self.token,
-            cache_dir='./models/pyannote'
+            cache_dir=self.cache_dir+'/pyannote'
         )
 
     @mytimer
