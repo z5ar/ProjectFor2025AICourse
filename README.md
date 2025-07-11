@@ -32,13 +32,17 @@
 
 详见[官方文档](https://docs.astral.sh/uv/getting-started/installation/)。
 
-### 4.2 下载源代码
+### 4.2 安装FFmpeg并添加进PATH
+
+详见[官网](https://ffmpeg.org/)。
+
+### 4.3 下载源代码
 
 ```shell
 git clone https://github.com/z5ar/ProjectFor2025AICourse.git
 ```
 
-### 4.3 下载包
+### 4.4 下载包
 
 终端切换到项目文件夹，根据实际情况，选用以下二者之一：
 
@@ -57,7 +61,7 @@ uv sync --extra cu128
 uv sync --extra cu118
 ```
 
-### 4.4 配置token、文件上传以及模型下载目录
+### 4.5 配置token、文件上传以及模型下载目录
 
 在项目文件夹，运行以下指令：
 
@@ -75,7 +79,7 @@ python main.py
 3. 同意[pyannote/speaker-diarization-3.1](https://hf.co/pyannote/speaker-diarization-3.1)的用户协议。
 4. 在[这里](hf.co/settings/tokens)创建Hugging Face Token。
 
-### 4.5 运行
+### 4.6 运行
 
 本地运行，可以在终端中输入：
 
