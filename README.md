@@ -25,19 +25,75 @@
 
 ## 4. 部署说明
 
-受`sentencepiece`包影响，本项目采用Python3.12，使用uv作项目管理。
+受`sentencepiece`包（`pyannote.audio`依赖）影响，本项目采用Python3.12，使用uv作项目管理。
+
+部署步骤如下：
+### 4.1 安装uv
+
+详见[官方文档](https://docs.astral.sh/uv/getting-started/installation/)。
+
+### 4.2 下载源代码
+
+```shell
+git clone https://github.com/z5ar/ProjectFor2025AICourse.git
+```
+
+### 4.3 下载包
+
+终端切换到项目文件夹，根据实际情况，选用以下二者之一：
 
 希望只使用CPU，请使用
-```
+```shell
 uv sync --extra cpu
 ```
 
-希望使用CUDA12.8及以上版本进行GPU加速，请使用
-```
+希望使用`CUDA12.8`及以上版本进行GPU加速，请使用
+```shell
 uv sync --extra cu128
 ```
 
-## 效率参考
+希望使用`CUDA11.8`及以上版本进行GPU加速，请使用
+```shell
+uv sync --extra cu118
+```
+
+### 4.4 配置token、文件上传以及模型下载目录
+
+在项目文件夹，运行以下指令：
+
+```shell
+python main.py
+```
+
+程序会自动生成`config.toml`，然后退出。
+
+打开`config.toml`，根据注释，修改你的token、文件上传以及模型下载目录。
+
+如何获取token？
+1. 首先要有一个能够访问Hugging Face的网络环境。
+2. 同意[pyannote/segmentation-3.0](https://hf.co/pyannote/segmentation-3.0)的用户协议。
+3. 同意[pyannote/speaker-diarization-3.1](https://hf.co/pyannote/speaker-diarization-3.1)的用户协议。
+4. 在[这里](hf.co/settings/tokens)创建Hugging Face Token。
+
+### 4.5 运行
+
+本地运行，可以在终端中输入：
+
+```shell
+uv run uvicorn main:app
+```
+终端中出现以下信息：
+```
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+```
+打开浏览器，输入网址`http://127.0.0.1:8000`即可使用。
+
+希望共享到局域网，可以使用：
+```shell
+uv run uvicorn main:app --host 0.0.0.0
+```
+
+## 5. 效率参考
 
 测试电脑配置：
 |项目|配置|
