@@ -4,6 +4,7 @@ import whisper, os
 from pyannote.audio import Pipeline
 from moviepy.video.io.VideoFileClip import VideoFileClip
 from datetime import timedelta
+from typing import Optional, Callable
 print(f'Imported in {time()-start_time}s.')
 from pprint import pprint
 del start_time
@@ -16,6 +17,7 @@ def mytimer(func):
         return retv
     return ret
 
+
 class SubtitleGenerator(object):
     def __init__(self,token,cache_dir='./models'):
         self.token=token
@@ -26,9 +28,9 @@ class SubtitleGenerator(object):
         print(f'{self.token=}')
     
     @mytimer
-    def load_models(self):
+    def load_models(self, whisper_model='large-v3-turbo'):
         print('Loading speech recognition model...')
-        self.whisper_model=whisper.load_model('large-v3-turbo',download_root=self.cache_dir+'/whisper')
+        self.whisper_model=whisper.load_model(whisper_model,download_root=self.cache_dir+'/whisper')
         print(f'Loading speaker diarization model...')
         self.diarization_pipeline = Pipeline.from_pretrained(
             "pyannote/speaker-diarization-3.1",
@@ -37,7 +39,7 @@ class SubtitleGenerator(object):
         )
 
     @mytimer
-    def generate(self, src_video:str, dist_subtitle:str):
+    def generate(self, src_video:str, dist_subtitle:str, on_progress:Optional[Callable[[int,int],None]]):
         @mytimer
         def extract_audio(src_video:str, mid_audio:str):
             # 提取音频与获取音频时长
@@ -158,18 +160,28 @@ class SubtitleGenerator(object):
             print('STEP 6: Clean temporary files...')
             os.remove(mid_audio)
 
-
-        mid_audio=f'temp_{src_video}.wav'
+        mid_audio=f'{src_video}.wav'
+        on_progress(0,6)
         extract_audio(src_video,mid_audio)
+        on_progress(1,6)
+        speaker_segments=diarize_speakers(mid_audio)
+        on_progress(2,6)
+        transcription=transcribe_audio(mid_audio)
+        on_progress(3,6)
+        aligned_segments=align(
+            speaker_segments=speaker_segments,
+            transcription_result=transcription
+        )
+        on_progress(4,6)
         output_subtitle(
             dist_subtitle=dist_subtitle,
-            aligned_segments=align(
-                speaker_segments=diarize_speakers(mid_audio),
-                transcription_result=transcribe_audio(mid_audio)
-            )
+            aligned_segments=aligned_segments
         )
+        on_progress(5,6)
         clean(mid_audio)
+        on_progress(6,6)
         print(f"Done...\n\tSrc: {src_video}\n\tDist:{dist_subtitle}")
+        return aligned_segments
 
 if __name__=='__main__':
     while True:
